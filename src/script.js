@@ -11,21 +11,86 @@ let restart = document.getElementById("restart");
 let userScore = document.getElementById("user-score");
 let startScreen = document.querySelector(".start-screen");
 let startButton = document.getElementById("start-button");
-let questionCount;
 let scoreCount = 0;
 let count = 11;
 let countdown;
+"use strict";
+var switchButton = document.querySelector(".switch-button");
+var switchBtnRight = document.querySelector(".switch-button-case.right");
+var switchBtnLeft = document.querySelector(".switch-button-case.left");
+var activeSwitch = document.querySelector(".active");
+var gamemode = true;
+let myBar = document.getElementById('progressBar');
+let questionCount = 1;
 
-//Question and Options array
-// Add questions, options and correct option in below format
+
+function switchLeft() {
+	switchBtnRight.classList.remove("active-case");
+	switchBtnLeft.classList.add("active-case");
+	activeSwitch.style.left = "0%";
+}
+
+function switchRight() {
+	switchBtnRight.classList.add("active-case");
+	switchBtnLeft.classList.remove("active-case");
+	activeSwitch.style.left = "50%";
+}
+
+switchBtnLeft.addEventListener(
+	"click",
+	function () {
+		switchLeft();
+        gamemode=true;
+		console.log("Yerli");
+
+	},
+	false
+);
+
+switchBtnRight.addEventListener(
+	"click",
+	function () {
+		switchRight();
+        gamemode=false;
+		console.log("Yabancı");
+
+	},
+	false
+);
+
+
+
 let quizArray = [];
-
 fetch('../Json/Data.json')
     .then(response => response.json())
     .then(data => {
         quizArray = data;
         // continue with your existing code here...
     });
+
+switch(gamemode) {
+	case true:
+		fetch('../Json/Data.json')
+			.then(response => response.json())
+			.then(data => {
+				quizArray = data;
+				// continue with your existing code here...
+    });
+
+	case false:
+		fetch('../Json/WordBookData.json')
+			.then(response => response.json())
+			.then(data => {
+				quizArray = data;
+				// continue with your existing code here...
+    });
+
+
+}
+//Question and Options array
+// Add questions, options and correct option in below format
+
+
 
 
 // restart game
@@ -38,6 +103,9 @@ restart.addEventListener("click", () => {
 nextBtn.addEventListener(
 	"click",
 	(displayNext = () => {
+		myBar.style.animation = 'none';
+        myBar.offsetHeight;
+        myBar.style.animation = null;
 		//increment questionCount
 		questionCount += 1;
 		//if last question
@@ -47,7 +115,7 @@ nextBtn.addEventListener(
 			scoreContainer.classList.remove("hide");
 			// user score
 			userScore.innerHTML =
-				"Your score is " + scoreCount + " out of " + questionCount;
+			"Skorunuz " +  questionCount + " soruda " + scoreCount + " doğru ";
 		} else {
 			//display questionCount
 			countOfQuestion.innerHTML = questionCount+". Soru"
@@ -74,6 +142,9 @@ const timerDisplay = () => {
 			//when countdown reaches 0 clearInterval and go to next question
 			clearInterval(countdown);
 			displayNext();
+			myBar.style.animation = 'none';
+            myBar.offsetHeight;
+            myBar.style.animation = null;
 		}
 	}, 1000);
 };
@@ -99,7 +170,8 @@ function quizCreator() {
 		let div = document.createElement("div");
 		div.classList.add("container_mid", "hide");
 		//question number
-		countOfQuestion.innerHTML = 1 + " of " + quizArray.length + " Question";
+		countOfQuestion.innerHTML = questionCount+ ". Soru"
+
 		//question
 		let question_DIV = document.createElement("p");
 		question_DIV.classList.add("question");
@@ -146,7 +218,7 @@ function checker(userOption) {
 //initial setup
 function inital() {
 	quizContainer.innerHTML = "";
-	questionCount = 0;
+	questionCount = 1;
 	scoreCount = 0;
 	clearInterval(countdown);
 	count = 11;

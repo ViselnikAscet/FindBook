@@ -159,3 +159,86 @@ i.fab {
 		font-size: 12px;
 	}
 }
+
+.switch-button {
+	width: 400px;
+	height: 40px;
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 60%;
+	transform: translate3D(-50%, -50%, 0);
+	will-change: transform;
+	z-index: 197 !important;
+	cursor: pointer;
+	transition: 0.3s ease all;
+	border: 1px solid white;
+  }
+  .switch-button-case {
+	display: inline-block;
+	background: none;
+	width: 49%;
+	height: 100%;
+	color: white;
+	position: relative;
+	border: none;
+	transition: 0.3s ease all;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	padding-bottom: 1px;
+  }
+  .switch-button-case:hover {
+	color: grey;
+	cursor: pointer;
+  }
+  .switch-button-case:focus {
+	outline: none;
+  }
+  .switch-button .active {
+	color: #151515;
+	background-color: white;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 50%;
+	height: 100%;
+	z-index: -1;
+	transition: 0.3s ease-out all;
+  }
+  .switch-button .active-case {
+	color: #151515;
+  }
+  
+  #scoretxt{
+	font-family: 'TOYZ', Arial, sans-serif; 
+	padding-right: 400px;
+	color: #0a69ed;
+	font-size: 50px;
+  }
+
+
+  .time {
+    position: relative;
+    height: 15px;
+    width: 100%;
+    background-color: grey;
+    overflow: hidden;
+    border-radius: 5px;
+    .actualTime {
+      position: absolute;
+      content: "";
+      display: block;
+      height: 100%;
+      width: 100%;
+      background-color: green;
+      transform: translateX(-100%);
+      transition: all .20s;
+      animation: updateTime 10s linear reverse;
+    }
+  }
+
+  @keyframes updateTime {
+    100% {transform: translateX(0);}
+    50% {transform: translateX(-100); background-color: yellow;}
+    0% {transform: translateX(100); background-color: red;}
+  }
