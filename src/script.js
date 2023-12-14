@@ -16,12 +16,17 @@ let wrapper = document.getElementById("wrapper");
 let displayContainer = document.getElementById("display-container");
 let scoreContainer = document.querySelector(".score-container");
 let restart = document.getElementById("restart");
+let menu = document.getElementById("mainmenu");
+let user = document.getElementById("user-info");
 let userScore = document.getElementById("user-score");
 let startScreen = document.querySelector(".start-screen");
+let info = document.getElementById("go-info");
 let startButton = document.getElementById("start-button");
 let scoreCount = 0;
 let count = 11;
 let countdown;
+let adSoyadInput = document.querySelector('input[placeholder="Ad Soyad"]');
+let numaraInput = document.querySelector('input[placeholder="Numara"]');
 var gamemode = "turk";
 var categorize = "Roman";
 ("use strict");
@@ -202,6 +207,13 @@ restart.addEventListener("click", () => {
   wrapper.classList.remove("hide");
   scoreContainer.classList.add("hide");
 });
+
+// Back Main Menü
+
+menu.addEventListener("click", () => {
+  scoreContainer.classList.add("hide");
+  startScreen.classList.remove("hide");
+})
 // Next button
 nextBtn.addEventListener(
   "click",
@@ -390,15 +402,29 @@ function inital() {
   score = 0;
 }
 // when user click on start button
-startButton.addEventListener("click", () => {
-
+info.addEventListener("click", () => {
 
   startScreen.classList.add("hide");
+  wrapper.classList.add("hide");
+  user.classList.remove("hide");
+});
+
+startButton.addEventListener("click", () => {
+
+  if (adSoyadInput.value.trim() === '' || numaraInput.value.trim() === '') {
+    // Eğer input alanlarından biri boşsa, kullanıcıyı uyar
+    alert('Ad Soyad ve Numara alanları boş bırakılamaz!');
+  } else {
+  user.classList.add("hide");
   wrapper.classList.remove("hide");
   inital();
-});
+  }
+})
+
+
 //hide quiz and display start screen
 window.onload = () => {
   startScreen.classList.remove("hide");
   wrapper.classList.add("hide");
+  user.classList.add("hide");
 };
