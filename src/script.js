@@ -428,3 +428,27 @@ window.onload = () => {
   wrapper.classList.add("hide");
   user.classList.add("hide");
 };
+
+// Bir kere tıklama için kullanılan flag
+var isClickedOne = false;
+var isClickedTwo = false;
+
+function handleClickOne(cardNumber) {
+  if (!isClickedOne) {
+      flipCard(cardNumber);
+      isClickedOne = true;
+  }
+}
+
+function handleClickTwo(cardNumber) {
+  if (!isClickedTwo) {
+      flipCard(cardNumber);
+      isClickedTwo = true;
+  }
+}
+
+// Kartı çevirme fonksiyonu
+function flipCard(cardNumber) {
+  let card = document.querySelector(`.card:nth-child(${cardNumber})`);
+  card.classList.toggle("is-flipped");
+}

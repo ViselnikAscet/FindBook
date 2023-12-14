@@ -62,13 +62,38 @@
 		
 		<div id="container">
 		</div>
-		<div class="btn-container">		
+		<div class="btn-container">	
 			<h3 id="scoretxt"></h3>
-
+			<div class="card" onclick="handleClickOne()" value="1">
+					<div class="card-inner">
+						<div class="card-front">
+							<h5>50/50</h5>
+							<p>Yanlış Olan 2 Şık Elenir</p>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+				
+			<div class="card" onclick="handleClickTwo(2)">
+				<div class="card-inner">
+					<div class="card-front">
+						<h5>2X</h5>
+						<p>2 Cevap Hakkı Kazandırır</p>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
 			<button id="next-button">Sonraki</button>
 		</div>
+		
 	</div>
-	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank"><img src="/image/favicon.ico" alt="logo"> YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
+	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank">YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
 </div>
 <div class="score-container hide">
 	<div id="user-score"></div>
