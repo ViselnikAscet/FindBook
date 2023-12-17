@@ -11,6 +11,21 @@
 
 </head>
 <body>
+	
+  <div id="user-info">
+	<div id="info">
+		<h3>Kayıt Bilgileri</h3>
+	  <!-- Button for "ad" -->
+	  <input type="text" placeholder="Ad Soyad" required>
+  
+	  <!-- Button for "soyad" -->
+	  <input type="text" placeholder="Numara" required>
+  
+	  <button id="start-button">Başla</button>
+	  <!-- You can add more content or functionality here if needed -->
+	</div>
+  </div>
+
 <div class="start-screen">
 	<h2>HAZIR MISIN?</h2>
 	<div class="switch-button"><span class="active"></span>
@@ -28,19 +43,7 @@
 	<button id="go-info">Başla</button>
 </div>
 
-<div id="user-info">
-	<div id="info">
-		<h3>Kayıt Bilgileri</h3>
-	  <!-- Button for "ad" -->
-	  <input type="text" placeholder="Ad Soyad" required>
-  
-	  <!-- Button for "soyad" -->
-	  <input type="text" placeholder="Numara" required>
-  
-	  <button id="start-button">Başla</button>
-	  <!-- You can add more content or functionality here if needed -->
-	</div>
-  </div>
+
   
 
 <div id="wrapper">
@@ -64,8 +67,8 @@
 		</div>
 		<div class="btn-container">	
 			<h3 id="scoretxt"></h3>
-			<div class="card" onclick="handleClickOne()" value="1">
-					<div class="card-inner">
+			<div class="card1" onclick="handleClickOne(1)" value="1">
+					<div class="card-inner" >
 						<div class="card-front">
 							<h5>50/50</h5>
 							<p>Yanlış Olan 2 Şık Elenir</p>
@@ -77,8 +80,8 @@
 				</div>
 			</div>
 				
-			<div class="card" onclick="handleClickTwo(2)">
-				<div class="card-inner">
+			<div class="card2" onclick="handleClickTwo(2)">
+				<div class="card-inner" >
 					<div class="card-front">
 						<h5>2X</h5>
 						<p>2 Cevap Hakkı Kazandırır</p>

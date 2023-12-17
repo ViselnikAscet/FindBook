@@ -35,6 +35,8 @@ var switchBtnmiddle = document.querySelector(".switch-button-case.middle");
 var switchBtnRight = document.querySelector(".switch-button-case.right");
 var switchBtnLeft = document.querySelector(".switch-button-case.left");
 var activeSwitch = document.querySelector(".active");
+var isClickedOne = false;
+var isClickedTwo = false;
 //
 
 var switchButton2 = document.querySelector(".switch-button2");
@@ -203,6 +205,7 @@ function fetchData() {
 
 // restart game
 restart.addEventListener("click", () => {
+  resetCardState(); // Reset the card state
   inital(); //call initial function
   wrapper.classList.remove("hide");
   scoreContainer.classList.add("hide");
@@ -399,14 +402,16 @@ function inital() {
   heart1.className = heartfull;
   heart2.className = heartfull;
   heart3.className = heartfull;
+  var isClickedOne = false;
+  var isClickedTwo = false;
   score = 0;
 }
 // when user click on start button
 info.addEventListener("click", () => {
 
   startScreen.classList.add("hide");
-  wrapper.classList.add("hide");
-  user.classList.remove("hide");
+  wrapper.classList.remove("hide");
+  user.classList.add("hide");
 });
 
 startButton.addEventListener("click", () => {
@@ -416,7 +421,8 @@ startButton.addEventListener("click", () => {
     alert('Ad Soyad ve Numara alanları boş bırakılamaz!');
   } else {
   user.classList.add("hide");
-  wrapper.classList.remove("hide");
+  wrapper.classList.add("hide");
+  startScreen.classList.remove("hide");
   inital();
   }
 })
@@ -424,31 +430,41 @@ startButton.addEventListener("click", () => {
 
 //hide quiz and display start screen
 window.onload = () => {
-  startScreen.classList.remove("hide");
+  startScreen.classList.add("hide");
   wrapper.classList.add("hide");
-  user.classList.add("hide");
+  user.classList.remove("hide");
 };
 
 // Bir kere tıklama için kullanılan flag
-var isClickedOne = false;
-var isClickedTwo = false;
+
 
 function handleClickOne(cardNumber) {
   if (!isClickedOne) {
-      flipCard(cardNumber);
+      flipCard(cardNumber, '.card1');
       isClickedOne = true;
   }
 }
 
 function handleClickTwo(cardNumber) {
   if (!isClickedTwo) {
-      flipCard(cardNumber);
+      flipCard(cardNumber, '.card2');
       isClickedTwo = true;
   }
 }
 
-// Kartı çevirme fonksiyonu
-function flipCard(cardNumber) {
-  let card = document.querySelector(`.card:nth-child(${cardNumber})`);
-  card.classList.toggle("is-flipped");
+function flipCard(cardNumber, cardClass) {
+  let card = document.querySelector(`${cardClass}`);
+  if (card !== null) {
+    card.classList.toggle("is-flipped");
+  } else {
+    console.error(`Element not found for ${cardClass}:nth-child(${cardNumber})`);
+  }
+}
+
+function resetCardState() {
+  isClickedOne = false;
+  isClickedTwo = false;
+  // Remove the "is-flipped" class from all cards
+  let flippedCards = document.querySelectorAll(".is-flipped");
+  flippedCards.forEach(card => card.classList.remove("is-flipped"));
 }
