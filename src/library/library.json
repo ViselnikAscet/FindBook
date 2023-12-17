@@ -1,0 +1,1046 @@
+[
+    {
+        "Author": "Antoine de Saint-Exupéry",
+        "title": "Küçük Prens",
+        "id": 1,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "José Mauro de Vasconcelos",
+        "title": "Şeker Portakalı",
+        "id": 2,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Samed Behrengi",
+        "title": "Küçük Kara Balık",
+        "id": 3,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "John Boyne",
+        "title": "Çizgili Pijamalı Çocuk",
+        "id": 4,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Oscar Wilde",
+        "title": "Mutlu Prens",
+        "id": 5,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Lewis Carroll",
+        "title": "Alice Harikalar Diyarında",
+        "id": 6,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Edmondo De Amicis",
+        "title": "Çocuk Kalbi",
+        "id": 7,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ferenc Molnar",
+        "title": "Pal Sokağı Çocukları",
+        "id": 8,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Eleanor H. Porter",
+        "title": "Pollyanna",
+        "id": 9,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "R. J. Palacio",
+        "title": "Mucize",
+        "id": 10,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jules Verne",
+        "title": "Ay'a Yolculuk",
+        "id": 11,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Carlo Collodi",
+        "title": "Pinokyo",
+        "id": 12,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "J. M. Barrie",
+        "title": "Peter Pan",
+        "id": 13,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Mark Twain",
+        "title": "Tom Sawyer’ın Maceraları",
+        "id": 14,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Peter Boxall",
+        "title": "Ölmeden Önce Okumanız Gereken 1001 Kitap",
+        "id": 15,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Johanna Spyri",
+        "title": "Heidi",
+        "id": 16,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Robert Louis Stevenson",
+        "title": "Define Adası",
+        "id": 17,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Aziz Nesin",
+        "title": "Şimdiki Çocuklar Harika",
+        "id": 18,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ömer Seyfettin",
+        "title": "Kaşağı",
+        "id": 19,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jules Verne",
+        "title": "Dünyanın Merkezine Seyahat",
+        "id": 20,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jonathan Swift",
+        "title": "Gulliver'in Seyahatleri",
+        "id": 21,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Samed Behrengi",
+        "title": "Bir Şeftali Bin Şeftali",
+        "id": 22,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Frances Hodgson Burnett",
+        "title": "Gizli Bahçe",
+        "id": 23,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Yaşar Kemal",
+        "title": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca",
+        "id": 24,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Roald Dahl",
+        "title": "Charlie'nin Çikolata Fabrikası",
+        "id": 25,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Howard Pyle",
+        "title": "Robin Hood",
+        "id": 26,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ahmet Ümit",
+        "title": "Masal Masal İçinde",
+        "id": 27,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ömer Seyfettin",
+        "title": "Ömer Seyfettin'den Seçme Hikayeler",
+        "id": 28,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ömer Seyfettin",
+        "title": "Yalnız Efe",
+        "id": 29,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Edith Nesbit",
+        "title": "Demiryolu Çocukları",
+        "id": 30,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Antoine de Saint-Exupéry",
+        "title": "Gece Uçuşu",
+        "id": 31,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Tevfik Fikret",
+        "title": "Şermin",
+        "id": 32,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Eleanor Coerr",
+        "title": "Sadako ve Kağıttan Bin Turna Kuşu",
+        "id": 33,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Şermin Yaşar",
+        "title": "Dedemin Bakkalı",
+        "id": 34,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Vladimir Tumanov",
+        "title": "Kraliçeyi Kurtarmak",
+        "id": 35,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Sait Faik Abasıyanık",
+        "title": "Seçme Hikayeler",
+        "id": 36,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Aisopos",
+        "title": "Ezop Masalları",
+        "id": 37,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Roald Dahl",
+        "title": "Matilda",
+        "id": 38,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Oscar Wilde",
+        "title": "Mutlu Prens - Bütün Masallar, Bütün Öyküler",
+        "id": 39,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Elif Şafak",
+        "title": "Sakız Sardunya",
+        "id": 40,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Hans Christian Andersen",
+        "title": "Kibritçi Kız",
+        "id": 41,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ömer Seyfettin",
+        "title": "Pembe İncili Kaftan",
+        "id": 42,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Vladimir Tumanov",
+        "title": "Haritada Kaybolmak",
+        "id": 43,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Zülfü Livaneli",
+        "title": "Son Ada'nın Çocukları",
+        "id": 44,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Mark Twain",
+        "title": "Prens ve Dilenci",
+        "id": 45,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Eleanor H. Porter",
+        "title": "Küçük Kemancı",
+        "id": 46,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jules Verne",
+        "title": "Kaptan Grant'ın Çocukları",
+        "id": 47,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Samed Behrengi",
+        "title": "Sevgi Masalı",
+        "id": 48,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jules Verne",
+        "title": "Esrarlı Ada",
+        "id": 49,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Natalie Babbitt",
+        "title": "Ölümsüz Aile",
+        "id": 50,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ahmet Ümit",
+        "title": "Olmayan Ülke",
+        "id": 51,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Jean de La Fontaine",
+        "title": "Masallar",
+        "id": 52,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Mary Mapes Dodge",
+        "title": "Gümüş Patenler",
+        "id": 53,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Ömer Seyfettin",
+        "title": "Perili Köşk",
+        "id": 54,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Hans Christian Andersen",
+        "title": "Andersen Masalları",
+        "id": 55,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Şermin Yaşar",
+        "title": "Abartma Tozu",
+        "id": 56,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Charles Perrault",
+        "title": "Sinderella (Kül Kedisi)",
+        "id": 57,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Samed Behrengi",
+        "title": "Ulduz ve Kargalar",
+        "id": 58,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Cahit Zarifoğlu",
+        "title": "Serçekuş",
+        "id": 59,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Sevim Ak",
+        "title": "Vanilya Kokulu Mektuplar",
+        "id": 60,
+        "type": "Çocuk Kitapları"
+    },
+    {
+        "Author": "Fyodor Dostoyevski",
+        "title": "Kumarbaz",
+        "id": 61,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Stefan Zweig",
+        "title": "Ay Işığı Sokağı",
+        "id": 62,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Stefan Zweig",
+        "title": "Mecburiyet",
+        "id": 63,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Fyodor Dostoyevski",
+        "title": "İnsancıklar",
+        "id": 64,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Aldous Huxley",
+        "title": "Cesur Yeni Dünya",
+        "id": 65,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "William Shakespeare",
+        "title": "Romeo ve Juliet",
+        "id": 66,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "J. D. Salinger",
+        "title": "Çavdar Tarlasında Çocuklar",
+        "id": 67,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Charles Dickens",
+        "title": "İki Şehrin Hikâyesi",
+        "id": 68,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Nikolay Gogol",
+        "title": "Bir Delinin Anı Defteri - Palto - Burun - Petersburg Öyküleri ve Fayton",
+        "id": 69,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Montaigne",
+        "title": "Denemeler",
+        "id": 70,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Franz Kafka",
+        "title": "Milena'ya Mektuplar",
+        "id": 71,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Franz Kafka",
+        "title": "Dava",
+        "id": 72,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Platon (Eflatun)",
+        "title": "Sokrates'in Savunması",
+        "id": 73,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "William Shakespeare",
+        "title": "Hamlet",
+        "id": 74,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "Ivan Turgenyev",
+        "title": "Babalar ve Oğullar",
+        "id": 75,
+        "type": "Dünya Klasikleri - Yabancı"
+    },
+    {
+        "Author": "İnce Memed",
+        "title": "Yaşar Kemal",
+        "id": 76,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Tutunamayanlar",
+        "title": "Oğuz Atay",
+        "id": 77,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Saatleri Ayarlama Enstitüsü",
+        "title": "Ahmet Hamdi Tanpınar",
+        "id": 78,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Huzur",
+        "title": "Ahmet Hamdi Tanpınar",
+        "id": 79,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kara Kitap",
+        "title": "Orhan Pamuk",
+        "id": 80,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bereketli Topraklar Üzerinde",
+        "title": "Orhan Kemal",
+        "id": 81,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Aylak Adam",
+        "title": "Yusuf Atılgan",
+        "id": 82,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Aşk-ı Memnu",
+        "title": "Halit Ziya Uşaklıgil",
+        "id": 83,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Benim Adım Kırmızı",
+        "title": "Orhan Pamuk",
+        "id": 84,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Puslu Kıtalar Atlası",
+        "title": "İhsan Oktay Anar",
+        "id": 85,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Puslu Kıtalar Atlası",
+        "title": "İhsan Oktay Anar",
+        "id": 86,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Sevgili Arsız Ölüm",
+        "title": "Latife Tekin",
+        "id": 87,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yaban",
+        "title": "Yakup Kadri Karaosmanoğlu",
+        "id": 88,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bir Düğün Gecesi",
+        "title": "Adalet Ağaoğlu",
+        "id": 89,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Tehlikeli Oyunlar",
+        "title": "Oğuz Atay",
+        "id": 90,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Ölmeye Yatmak",
+        "title": "Adalet Ağaoğlu",
+        "id": 91,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kürk Mantolu Madonna",
+        "title": "Sabahattin Ali",
+        "id": 92,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Üç İstanbul",
+        "title": "Mithat Cemal Kuntay",
+        "id": 93,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Çalıkuşu",
+        "title": "Reşat Nuri Güntekin",
+        "id": 94,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "9. Hariciye Koğuşu",
+        "title": "Peyami Safa",
+        "id": 95,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Devlet Ana",
+        "title": "Kemal Tahir",
+        "id": 96,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bir Gün Tek Başına",
+        "title": "Vedat Türkali",
+        "id": 97,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Hakkari'de Bir Mevsim",
+        "title": "Ferit Edgü",
+        "id": 98,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kuyucaklı Yusuf",
+        "title": "Sabahattin Ali",
+        "id": 99,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yenişehir'de Bir Öğle Vakti",
+        "title": "Sevgi Soysal",
+        "id": 100,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Mai ve Siyah",
+        "title": "Halit Ziya Uşaklıgil",
+        "id": 101,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kıskanmak",
+        "title": "Nahid Sırrı Örik",
+        "id": 102,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Cevdet Bey ve Oğulları",
+        "title": "Orhan Pamuk",
+        "id": 103,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Eylül",
+        "title": "Mehmet Rauf",
+        "id": 104,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Gece",
+        "title": "Bilge Karasu",
+        "id": 105,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Fahim Bey ve Biz",
+        "title": "Abdülhak Şinasi Hisar",
+        "id": 106,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "47’liler",
+        "title": "Füruzan",
+        "id": 107,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Gölgesizler",
+        "title": "Hasan Ali Toptaş",
+        "id": 108,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Demirciler Çarşısı Cinayeti",
+        "title": "Yaşar Kemal",
+        "id": 109,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yorgun Savaşçı",
+        "title": "Kemal Tahir",
+        "id": 110,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Murtaza",
+        "title": "Orhan Kemal",
+        "id": 111,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yer Demir Gök Bakır",
+        "title": "Yaşar Kemal",
+        "id": 112,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Tuhaf Bir Kadın",
+        "title": "Leyla Erbil",
+        "id": 113,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Ağır Roman",
+        "title": "Metin Kaçan",
+        "id": 114,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Orta Direk",
+        "title": "Yaşar Kemal",
+        "id": 115,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Fırat Suyu Kan Akıyor Baksana",
+        "title": "Yaşar Kemal",
+        "id": 116,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "İçimizdeki Şeytan",
+        "title": "Sabahattin Ali",
+        "id": 117,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yalnızız",
+        "title": "Peyami Safa",
+        "id": 118,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bin Hüzünlü Haz",
+        "title": "Hasan Ali Toptaş",
+        "id": 119,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Son Adım",
+        "title": "Ayhan Geçgin",
+        "id": 120,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yılanların Öcü",
+        "title": "Fakir Baykurt",
+        "id": 121,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Her Gece Bodrum",
+        "title": "Selim İleri",
+        "id": 122,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Sinekli Bakkal",
+        "title": "Halide Edib Adıvar",
+        "id": 123,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Sultan Hamid Düşerken",
+        "title": "Nahid Sırrı Örik",
+        "id": 124,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Serenad",
+        "title": "Zülfü Livaneli",
+        "id": 125,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Tol",
+        "title": "Murat Uyurkulak",
+        "id": 126,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Ayaşlı ve Kiracıları",
+        "title": "Memduh Şevket Esendal",
+        "id": 127,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Müşâhedat",
+        "title": "Ahmet Midhat Efendi",
+        "id": 128,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kinyas ile Kayra",
+        "title": "Hakan Günday",
+        "id": 129,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Berci Kristin Çöp Masalları",
+        "title": "Latife Tekin",
+        "id": 130,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Denizin Çağırışı",
+        "title": "Kemal Bilbaşar",
+        "id": 131,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kırık Hayatlar",
+        "title": "Halid Ziya Uşaklıgil",
+        "id": 132,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kurt Kanunu",
+        "title": "Kemal Tahir",
+        "id": 133,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Medarı Maişet Motoru",
+        "title": "Sait Faik Abasıyanık",
+        "id": 134,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Odalarda",
+        "title": "Erdal Öz",
+        "id": 135,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yeşil Gece",
+        "title": "Reşat Nuri Güntekin",
+        "id": 136,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bir Solgun Adam",
+        "title": "Selçuk Baran",
+        "id": 137,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi",
+        "title": "Ayfer Tunç",
+        "id": 138,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Buzul Çağının Virüsü",
+        "title": "Vüs’at O. Bener",
+        "id": 139,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Esir Şehrin İnsanları",
+        "title": "Kemal Tahir",
+        "id": 140,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Gurbet Kuşları",
+        "title": "Orhan Kemal",
+        "id": 141,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "İstanbul Hatırası",
+        "title": "Ahmet Ümit",
+        "id": 142,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Mel’un",
+        "title": "Selim İleri",
+        "id": 143,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Rahmet Yolları Kesti",
+        "title": "Kemal Tahir",
+        "id": 144,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Bir Kadının Penceresinden",
+        "title": "Oktay Rıfat",
+        "id": 145,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Uzun Sürmüş Bir Günün Akşamı",
+        "title": "Bilge Karasu",
+        "id": 146,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Heba",
+        "title": "Hasan Ali Toptaş",
+        "id": 147,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Masumiyet Müzesi",
+        "title": "Orhan Pamuk",
+        "id": 148,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yaşamak Güzel Şey Be Kardeşim",
+        "title": "Nâzım Hikmet",
+        "id": 149,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Çamlıca’daki Eniştemiz",
+        "title": "Abdülhak Şinasi Hisar",
+        "id": 150,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Çocukluğun Soğuk Geceleri",
+        "title": "Tezer Özlü",
+        "id": 151,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kayıp Aranıyor",
+        "title": "Sait Faik Abasıyanık",
+        "id": 152,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Kiralık Konak",
+        "title": "Yakup Kadri Karaosmanoğlu",
+        "id": 153,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Eski Hastalık",
+        "title": "Reşat Nuri Güntekin",
+        "id": 154,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Mutluluk",
+        "title": "Zülfü Livaneli",
+        "id": 155,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Şimdiki Çocuklar Harika",
+        "title": "Aziz Nesin",
+        "id": 156,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Boğazkesen",
+        "title": "Nedim Gürsel",
+        "id": 157,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Karartma Geceleri",
+        "title": "Rıfat Ilgaz",
+        "id": 158,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Matmazel Noraliya’nın Koltuğu",
+        "title": "Peyami Safa",
+        "id": 159,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Sahnenin Dışındakiler",
+        "title": "Ahmet Hamdi Tanpınar",
+        "id": 160,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yaralısın",
+        "title": "Erdal Öz",
+        "id": 161,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yeşilçam Dedikleri Türkiye",
+        "title": "Vedat Türkali",
+        "id": 162,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Ankara",
+        "title": "Yakup Kadri Karaosmanoğlu",
+        "id": 163,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Araba Sevdası",
+        "title": "Recaizade Mahmut Ekrem",
+        "id": 164,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Ateş Gecesi",
+        "title": "Reşat Nuri Güntekin",
+        "id": 165,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Çılgın Gibi",
+        "title": "Suat Derviş",
+        "id": 166,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Göçmüş Kediler Bahçesi",
+        "title": "Bilge Karasu",
+        "id": 167,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Handan",
+        "title": "Halide Edib Adıvar",
+        "id": 168,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Mahur Beste",
+        "title": "Ahmet Hamdi Tanpınar",
+        "id": 169,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Şu Çılgın Türkler",
+        "title": "Turgut Özakman",
+        "id": 170,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Tütün Zamanı",
+        "title": "Necati Cumalı",
+        "id": 171,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Veda",
+        "title": "Ayşe Kulin",
+        "id": 172,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Viski",
+        "title": "Çetin Altan",
+        "id": 173,
+        "type": "Yerli Roman"
+    },
+    {
+        "Author": "Yalan",
+        "title": "Tahsin Yücel",
+        "id": 174,
+        "type": "Yerli Roman"
+    }
+]

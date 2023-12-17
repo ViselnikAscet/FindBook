@@ -31,13 +31,40 @@ button {
 	outline: none;
 	cursor: pointer;
 }
-#start-button,
-#restart {
+
+
+.button-container {
+    display: flex;
+    gap: 10px;
+	flex-direction: row;
+	text-align: center;
+
+}
+
+.main-button {
+    font-size: 1.3em;
+    padding: 0.5em 1.8em;
+    border-radius: 0.2em;
+}
+
+.larger {
+    flex-grow: 1; /* Daha büyük düğme */
+}
+
+.smaller {
+    width: 75%;
+	height: 75%; /* Daha küçük düğmeler */
+	font-size: 75%;
+
+}
+
+#restart, #mainmenu {
 	font-size: 1.3em;
+	margin-top: 5px;
 	padding: 0.5em 1.8em;
 	border-radius: 0.2em;
 }
-#restart {
+#restart #mainmenu {
 	margin-top: 0.9em;
 }
 #wrapper {
@@ -110,7 +137,7 @@ a {
 }
 .btn-container {
 	width: 100%;
-	display: flex;
+	display: inline-block;
 	justify-content: flex-end;
 	margin-top: 1.5em;
 }
@@ -133,6 +160,7 @@ a {
 	background-color: #0a69ed;
 	color: #ffffff;
 	padding: 0.7em 1.8em;
+	float: right;
 	border-radius: 0.3em;
 }
 .hide {
@@ -434,8 +462,122 @@ i.fab {
   }
 
 
+  input {
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	transition: border-color 0.3s ease;
+	border-radius: 5px;
+  }
 
+  input:required {
+	border: 2px solid #e74c3c;
+  }
+
+  input:required:focus {
+	border-color: #27ae60;
+	outline: none;
+  }
+
+  /* Yeşil renkli içeriği dolu input alanları için stil */
+  input:not(:placeholder-shown) {
+	border-color: #27ae60;
+  }
+
+  #info {
+	position: relative;
+	background-color: #ffffff;
+	padding: 3.1em 1.8em;
+	width: 20%;
+	margin: 320px 160px 150px 160px;
+	border-radius: 0.6em;
+	box-shadow: 0 20px 45px rgba(0, 24, 56, 0.15);
+  }
+  
+  #start-button {
+	font-size: 1.3em;
+	margin-top: 5px;
+	padding: 0.5em 1.8em;
+	border-radius: 0.2em;
+	color: white;
+	background-color: #0a69ed;
+
+  }
+  
+  #start-button:hover {
+	background-position: 0% 100%; /* Hover durumunda gradientin yönünü tersine çevir */
+  }
+  
   
 
+.card1, .card2 {
+    perspective: 1000px;
+    width: 100px;
+    margin: 10px;
+    height: 100px;
+	float: left	;
+}
 
-  
+.card-inner {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+}
+
+.is-flipped .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	font-family: 'TOYZ', Arial, sans-serif; 
+
+    font-size: 36px;
+    color: #fff;
+    border-radius: 35px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-front {
+    background-color: #3498db; /* Ön yüz arka plan rengi */
+	display: flex;
+}
+
+.card-back {
+    background-color: #2ecc71;
+    transform: rotateY(180deg);
+}
+
+.card h5 {
+    margin-bottom: 10px;
+}
+
+.icon-small {
+    font-size: 1rem; /* Özel küçük boyut */
+}
+
+.icon-medium {
+    font-size: 2rem; /* Özel orta boyut */
+}
+
+.icon-large {
+    font-size: 3rem; /* Özel büyük boyut */
+}
+
+.card1, .card2 p {
+	font-size: small;
+	text-align: center;
+}
+.small-x {
+	font-size: 0.75em; /* Adjust this value to make x smaller or larger */
+   }

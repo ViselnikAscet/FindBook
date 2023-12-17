@@ -1,0 +1,1091 @@
+[
+    {
+        "id": "0",
+        "question": "İnce Memed Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Hamdi Tanpınar",
+            "Kemal Bilbaşar",
+            "Kemal Tahir",
+            "Yaşar Kemal"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "1",
+        "question": "Tutunamayanlar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Aziz Nesin",
+            "Yusuf Atılgan",
+            "Mehmet Rauf",
+            "Oğuz Atay"
+        ],
+        "correct": "Oğuz Atay"
+    },
+    {
+        "id": "2",
+        "question": "Saatleri Ayarlama Enstitüsü Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hasan Ali Toptaş",
+            "Ahmet Hamdi Tanpınar",
+            "Sait Faik Abasıyanık",
+            "Reşat Nuri Güntekin"
+        ],
+        "correct": "Ahmet Hamdi Tanpınar"
+    },
+    {
+        "id": "3",
+        "question": "Huzur Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Erdal Öz",
+            "Reşat Nuri Güntekin",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correct": "Ahmet Hamdi Tanpınar"
+    },
+    {
+        "id": "4",
+        "question": "Kara Kitap Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Latife Tekin",
+            "Leyla Erbil",
+            "Orhan Pamuk",
+            "Yaşar Kemal"
+        ],
+        "correct": "Orhan Pamuk"
+    },
+    {
+        "id": "5",
+        "question": "Bereketli Topraklar Üzerinde Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Abdülhak Şinasi Hisar",
+            "Orhan Kemal",
+            "Halit Ziya Uşaklıgil",
+            "Yaşar Kemal"
+        ],
+        "correct": "Orhan Kemal"
+    },
+    {
+        "id": "6",
+        "question": "Aylak Adam Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Oğuz Atay",
+            "Nahid Sırrı Örik",
+            "Yusuf Atılgan",
+            "Bilge Karasu"
+        ],
+        "correct": "Yusuf Atılgan"
+    },
+    {
+        "id": "7",
+        "question": "Aşk-ı Memnu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Halit Ziya Uşaklıgil",
+            "Selim İleri",
+            "Rıfat Ilgaz",
+            "Peyami Safa"
+        ],
+        "correct": "Halit Ziya Uşaklıgil"
+    },
+    {
+        "id": "8",
+        "question": "Benim Adım Kırmızı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Peyami Safa",
+            "Metin Kaçan",
+            "Selim İleri"
+        ],
+        "correct": "Orhan Pamuk"
+    },
+    {
+        "id": "9",
+        "question": "Puslu Kıtalar Atlası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Reşat Nuri Güntekin",
+            "İhsan Oktay Anar",
+            "Kemal Tahir",
+            "Zülfü Livaneli"
+        ],
+        "correct": "İhsan Oktay Anar"
+    },
+    {
+        "id": "10",
+        "question": "Puslu Kıtalar Atlası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sevgi Soysal",
+            "İhsan Oktay Anar",
+            "Selim İleri",
+            "Vedat Türkali"
+        ],
+        "correct": "İhsan Oktay Anar"
+    },
+    {
+        "id": "11",
+        "question": "Sevgili Arsız Ölüm Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Necati Cumalı",
+            "Latife Tekin",
+            "Recaizade Mahmut Ekrem",
+            "Oktay Rıfat"
+        ],
+        "correct": "Latife Tekin"
+    },
+    {
+        "id": "12",
+        "question": "Yaban Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Suat Derviş",
+            "Reşat Nuri Güntekin",
+            "Yakup Kadri Karaosmanoğlu",
+            "Nedim Gürsel"
+        ],
+        "correct": "Yakup Kadri Karaosmanoğlu"
+    },
+    {
+        "id": "13",
+        "question": "Bir Düğün Gecesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Adalet Ağaoğlu",
+            "Orhan Kemal",
+            "Nahid Sırrı Örik",
+            "Sabahattin Ali"
+        ],
+        "correct": "Adalet Ağaoğlu"
+    },
+    {
+        "id": "14",
+        "question": "Tehlikeli Oyunlar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Oğuz Atay",
+            "Yaşar Kemal",
+            "Tahsin Yücel",
+            "Reşat Nuri Güntekin"
+        ],
+        "correct": "Oğuz Atay"
+    },
+    {
+        "id": "15",
+        "question": "Ölmeye Yatmak Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yusuf Atılgan",
+            "Bilge Karasu",
+            "Adalet Ağaoğlu",
+            "Halide Edib Adıvar"
+        ],
+        "correct": "Adalet Ağaoğlu"
+    },
+    {
+        "id": "16",
+        "question": "Kürk Mantolu Madonna Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sabahattin Ali",
+            "Hasan Ali Toptaş",
+            "Yaşar Kemal",
+            "Halide Edib Adıvar"
+        ],
+        "correct": "Sabahattin Ali"
+    },
+    {
+        "id": "17",
+        "question": "Üç İstanbul Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peyami Safa",
+            "Turgut Özakman",
+            "Ahmet Hamdi Tanpınar",
+            "Mithat Cemal Kuntay"
+        ],
+        "correct": "Mithat Cemal Kuntay"
+    },
+    {
+        "id": "18",
+        "question": "Çalıkuşu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yakup Kadri Karaosmanoğlu",
+            "Orhan Pamuk",
+            "Reşat Nuri Güntekin",
+            "Ayhan Geçgin"
+        ],
+        "correct": "Reşat Nuri Güntekin"
+    },
+    {
+        "id": "19",
+        "question": "9. Hariciye Koğuşu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "İhsan Oktay Anar",
+            "Peyami Safa",
+            "Reşat Nuri Güntekin",
+            "Sait Faik Abasıyanık"
+        ],
+        "correct": "Peyami Safa"
+    },
+    {
+        "id": "20",
+        "question": "Devlet Ana Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Bilge Karasu",
+            "Peyami Safa",
+            "Kemal Tahir",
+            "Orhan Kemal"
+        ],
+        "correct": "Kemal Tahir"
+    },
+    {
+        "id": "21",
+        "question": "Bir Gün Tek Başına Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Hamdi Tanpınar",
+            "Sevgi Soysal",
+            "Leyla Erbil",
+            "Vedat Türkali"
+        ],
+        "correct": "Vedat Türkali"
+    },
+    {
+        "id": "22",
+        "question": "Hakkari'de Bir Mevsim Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ferit Edgü",
+            "Oğuz Atay",
+            "Zülfü Livaneli",
+            "Nedim Gürsel"
+        ],
+        "correct": "Ferit Edgü"
+    },
+    {
+        "id": "23",
+        "question": "Kuyucaklı Yusuf Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sabahattin Ali",
+            "Reşat Nuri Güntekin",
+            "Sevgi Soysal",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Sabahattin Ali"
+    },
+    {
+        "id": "24",
+        "question": "Yenişehir'de Bir Öğle Vakti Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sevgi Soysal",
+            "Adalet Ağaoğlu",
+            "Orhan Pamuk",
+            "Sabahattin Ali"
+        ],
+        "correct": "Sevgi Soysal"
+    },
+    {
+        "id": "25",
+        "question": "Mai ve Siyah Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peyami Safa",
+            "Nâzım Hikmet",
+            "Orhan Pamuk",
+            "Halit Ziya Uşaklıgil"
+        ],
+        "correct": "Halit Ziya Uşaklıgil"
+    },
+    {
+        "id": "26",
+        "question": "Kıskanmak Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Ahmet Hamdi Tanpınar",
+            "Nahid Sırrı Örik",
+            "Ayhan Geçgin"
+        ],
+        "correct": "Nahid Sırrı Örik"
+    },
+    {
+        "id": "27",
+        "question": "Cevdet Bey ve Oğulları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Zülfü Livaneli",
+            "Orhan Pamuk",
+            "Peyami Safa",
+            "Latife Tekin"
+        ],
+        "correct": "Orhan Pamuk"
+    },
+    {
+        "id": "28",
+        "question": "Eylül Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Midhat Efendi",
+            "Mehmet Rauf",
+            "Çetin Altan",
+            "Rıfat Ilgaz"
+        ],
+        "correct": "Mehmet Rauf"
+    },
+    {
+        "id": "29",
+        "question": "Gece Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Bilge Karasu",
+            "Halit Ziya Uşaklıgil",
+            "Leyla Erbil"
+        ],
+        "correct": "Bilge Karasu"
+    },
+    {
+        "id": "30",
+        "question": "Fahim Bey ve Biz Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Abdülhak Şinasi Hisar",
+            "Oğuz Atay",
+            "Ahmet Hamdi Tanpınar",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correct": "Abdülhak Şinasi Hisar"
+    },
+    {
+        "id": "31",
+        "question": "47’liler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ayfer Tunç",
+            "Füruzan",
+            "Tezer Özlü",
+            "Aziz Nesin"
+        ],
+        "correct": "Füruzan"
+    },
+    {
+        "id": "32",
+        "question": "Gölgesizler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hasan Ali Toptaş",
+            "Nedim Gürsel",
+            "Turgut Özakman",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correct": "Hasan Ali Toptaş"
+    },
+    {
+        "id": "33",
+        "question": "Demirciler Çarşısı Cinayeti Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Selçuk Baran",
+            "Ayhan Geçgin",
+            "Kemal Tahir"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "34",
+        "question": "Yorgun Savaşçı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mehmet Rauf",
+            "Kemal Tahir",
+            "Orhan Pamuk",
+            "Reşat Nuri Güntekin"
+        ],
+        "correct": "Kemal Tahir"
+    },
+    {
+        "id": "35",
+        "question": "Murtaza Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Kemal",
+            "Bilge Karasu",
+            "Kemal Bilbaşar",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Orhan Kemal"
+    },
+    {
+        "id": "36",
+        "question": "Yer Demir Gök Bakır Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hasan Ali Toptaş",
+            "Vüs’at O. Bener",
+            "Aziz Nesin",
+            "Yaşar Kemal"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "37",
+        "question": "Tuhaf Bir Kadın Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Leyla Erbil",
+            "Orhan Pamuk",
+            "Ayhan Geçgin",
+            "Abdülhak Şinasi Hisar"
+        ],
+        "correct": "Leyla Erbil"
+    },
+    {
+        "id": "38",
+        "question": "Ağır Roman Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Memduh Şevket Esendal",
+            "Metin Kaçan",
+            "Selçuk Baran",
+            "Turgut Özakman"
+        ],
+        "correct": "Metin Kaçan"
+    },
+    {
+        "id": "39",
+        "question": "Orta Direk Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Halit Ziya Uşaklıgil",
+            "Reşat Nuri Güntekin"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "40",
+        "question": "Fırat Suyu Kan Akıyor Baksana Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Kemal Tahir",
+            "Yaşar Kemal",
+            "Çetin Altan",
+            "Adalet Ağaoğlu"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "41",
+        "question": "İçimizdeki Şeytan Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ferit Edgü",
+            "Sabahattin Ali",
+            "Hasan Ali Toptaş",
+            "Halit Ziya Uşaklıgil"
+        ],
+        "correct": "Sabahattin Ali"
+    },
+    {
+        "id": "42",
+        "question": "Yalnızız Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yakup Kadri Karaosmanoğlu",
+            "Peyami Safa",
+            "Yaşar Kemal",
+            "Oktay Rıfat"
+        ],
+        "correct": "Peyami Safa"
+    },
+    {
+        "id": "43",
+        "question": "Bin Hüzünlü Haz Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hasan Ali Toptaş",
+            "Necati Cumalı",
+            "Latife Tekin",
+            "Reşat Nuri Güntekin"
+        ],
+        "correct": "Hasan Ali Toptaş"
+    },
+    {
+        "id": "44",
+        "question": "Son Adım Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ayhan Geçgin",
+            "Suat Derviş",
+            "Kemal Tahir",
+            "Sait Faik Abasıyanık"
+        ],
+        "correct": "Ayhan Geçgin"
+    },
+    {
+        "id": "45",
+        "question": "Yılanların Öcü Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Fakir Baykurt",
+            "Yaşar Kemal",
+            "Reşat Nuri Güntekin",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Fakir Baykurt"
+    },
+    {
+        "id": "46",
+        "question": "Her Gece Bodrum Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yakup Kadri Karaosmanoğlu",
+            "Nahid Sırrı Örik",
+            "Selim İleri",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correct": "Selim İleri"
+    },
+    {
+        "id": "47",
+        "question": "Sinekli Bakkal Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Kemal",
+            "Halide Edib Adıvar",
+            "Rıfat Ilgaz",
+            "Murat Uyurkulak"
+        ],
+        "correct": "Halide Edib Adıvar"
+    },
+    {
+        "id": "48",
+        "question": "Sultan Hamid Düşerken Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Murat Uyurkulak",
+            "Necati Cumalı",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Nahid Sırrı Örik"
+    },
+    {
+        "id": "49",
+        "question": "Serenad Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Necati Cumalı",
+            "Halit Ziya Uşaklıgil",
+            "Vedat Türkali",
+            "Zülfü Livaneli"
+        ],
+        "correct": "Zülfü Livaneli"
+    },
+    {
+        "id": "50",
+        "question": "Tol Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Adalet Ağaoğlu",
+            "Halit Ziya Uşaklıgil",
+            "Murat Uyurkulak",
+            "Yaşar Kemal"
+        ],
+        "correct": "Murat Uyurkulak"
+    },
+    {
+        "id": "51",
+        "question": "Ayaşlı ve Kiracıları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Selim İleri",
+            "Memduh Şevket Esendal",
+            "Sait Faik Abasıyanık",
+            "Mithat Cemal Kuntay"
+        ],
+        "correct": "Memduh Şevket Esendal"
+    },
+    {
+        "id": "52",
+        "question": "Müşâhedat Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Zülfü Livaneli",
+            "Kemal Tahir",
+            "Ahmet Midhat Efendi",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correct": "Ahmet Midhat Efendi"
+    },
+    {
+        "id": "53",
+        "question": "Kinyas ile Kayra Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Hakan Günday",
+            "Kemal Bilbaşar",
+            "Selçuk Baran"
+        ],
+        "correct": "Hakan Günday"
+    },
+    {
+        "id": "54",
+        "question": "Berci Kristin Çöp Masalları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Bilge Karasu",
+            "Zülfü Livaneli",
+            "Latife Tekin",
+            "Selim İleri"
+        ],
+        "correct": "Latife Tekin"
+    },
+    {
+        "id": "55",
+        "question": "Denizin Çağırışı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Kemal Bilbaşar",
+            "Orhan Kemal"
+        ],
+        "correct": "Kemal Bilbaşar"
+    },
+    {
+        "id": "56",
+        "question": "Kırık Hayatlar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Abdülhak Şinasi Hisar",
+            "Bilge Karasu",
+            "Fakir Baykurt",
+            "Halid Ziya Uşaklıgil"
+        ],
+        "correct": "Halid Ziya Uşaklıgil"
+    },
+    {
+        "id": "57",
+        "question": "Kurt Kanunu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Kemal Tahir",
+            "Zülfü Livaneli",
+            "Aziz Nesin",
+            "Ayhan Geçgin"
+        ],
+        "correct": "Kemal Tahir"
+    },
+    {
+        "id": "58",
+        "question": "Medarı Maişet Motoru Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sait Faik Abasıyanık",
+            "Vedat Türkali",
+            "Yusuf Atılgan",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Sait Faik Abasıyanık"
+    },
+    {
+        "id": "59",
+        "question": "Odalarda Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Erdal Öz",
+            "Yakup Kadri Karaosmanoğlu",
+            "Ferit Edgü",
+            "Orhan Pamuk"
+        ],
+        "correct": "Erdal Öz"
+    },
+    {
+        "id": "60",
+        "question": "Yeşil Gece Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Latife Tekin",
+            "Rıfat Ilgaz",
+            "Reşat Nuri Güntekin",
+            "Kemal Tahir"
+        ],
+        "correct": "Reşat Nuri Güntekin"
+    },
+    {
+        "id": "61",
+        "question": "Bir Solgun Adam Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Turgut Özakman",
+            "Abdülhak Şinasi Hisar",
+            "Selçuk Baran",
+            "Ferit Edgü"
+        ],
+        "correct": "Selçuk Baran"
+    },
+    {
+        "id": "62",
+        "question": "Bir Deliler Evinin Yalan Yanlış Anlatılan Kısa Tarihi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Abdülhak Şinasi Hisar",
+            "Halid Ziya Uşaklıgil",
+            "Tahsin Yücel",
+            "Ayfer Tunç"
+        ],
+        "correct": "Ayfer Tunç"
+    },
+    {
+        "id": "63",
+        "question": "Buzul Çağının Virüsü Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ayşe Kulin",
+            "Vüs’at O. Bener",
+            "Yaşar Kemal",
+            "Halid Ziya Uşaklıgil"
+        ],
+        "correct": "Vüs’at O. Bener"
+    },
+    {
+        "id": "64",
+        "question": "Esir Şehrin İnsanları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Adalet Ağaoğlu",
+            "Vedat Türkali",
+            "Suat Derviş",
+            "Kemal Tahir"
+        ],
+        "correct": "Kemal Tahir"
+    },
+    {
+        "id": "65",
+        "question": "Gurbet Kuşları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sait Faik Abasıyanık",
+            "Orhan Kemal",
+            "Orhan Pamuk",
+            "Latife Tekin"
+        ],
+        "correct": "Orhan Kemal"
+    },
+    {
+        "id": "66",
+        "question": "İstanbul Hatırası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Ümit",
+            "Hasan Ali Toptaş",
+            "Oğuz Atay",
+            "Adalet Ağaoğlu"
+        ],
+        "correct": "Ahmet Ümit"
+    },
+    {
+        "id": "67",
+        "question": "Mel’un Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Selim İleri",
+            "Kemal Tahir",
+            "Ayhan Geçgin",
+            "Sabahattin Ali"
+        ],
+        "correct": "Selim İleri"
+    },
+    {
+        "id": "68",
+        "question": "Rahmet Yolları Kesti Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Midhat Efendi",
+            "Memduh Şevket Esendal",
+            "Kemal Tahir",
+            "Çetin Altan"
+        ],
+        "correct": "Kemal Tahir"
+    },
+    {
+        "id": "69",
+        "question": "Bir Kadının Penceresinden Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Kemal Tahir",
+            "Sabahattin Ali",
+            "Oktay Rıfat",
+            "Rıfat Ilgaz"
+        ],
+        "correct": "Oktay Rıfat"
+    },
+    {
+        "id": "70",
+        "question": "Uzun Sürmüş Bir Günün Akşamı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Murat Uyurkulak",
+            "Sabahattin Ali",
+            "Adalet Ağaoğlu",
+            "Bilge Karasu"
+        ],
+        "correct": "Bilge Karasu"
+    },
+    {
+        "id": "71",
+        "question": "Heba Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peyami Safa",
+            "Vedat Türkali",
+            "Metin Kaçan",
+            "Hasan Ali Toptaş"
+        ],
+        "correct": "Hasan Ali Toptaş"
+    },
+    {
+        "id": "72",
+        "question": "Masumiyet Müzesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Abdülhak Şinasi Hisar",
+            "Aziz Nesin",
+            "Orhan Pamuk",
+            "Peyami Safa"
+        ],
+        "correct": "Orhan Pamuk"
+    },
+    {
+        "id": "73",
+        "question": "Yaşamak Güzel Şey Be Kardeşim Adlı kitabın yazarı kimdir?",
+        "options": [
+            "İhsan Oktay Anar",
+            "Nâzım Hikmet",
+            "Ahmet Hamdi Tanpınar",
+            "Orhan Kemal"
+        ],
+        "correct": "Nâzım Hikmet"
+    },
+    {
+        "id": "74",
+        "question": "Çamlıca’daki Eniştemiz Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Orhan Pamuk",
+            "Sait Faik Abasıyanık",
+            "Yaşar Kemal",
+            "Abdülhak Şinasi Hisar"
+        ],
+        "correct": "Abdülhak Şinasi Hisar"
+    },
+    {
+        "id": "75",
+        "question": "Çocukluğun Soğuk Geceleri Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yakup Kadri Karaosmanoğlu",
+            "Tezer Özlü",
+            "Adalet Ağaoğlu",
+            "Aziz Nesin"
+        ],
+        "correct": "Tezer Özlü"
+    },
+    {
+        "id": "76",
+        "question": "Kayıp Aranıyor Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Kemal Tahir",
+            "Sait Faik Abasıyanık",
+            "Fakir Baykurt",
+            "Memduh Şevket Esendal"
+        ],
+        "correct": "Sait Faik Abasıyanık"
+    },
+    {
+        "id": "77",
+        "question": "Kiralık Konak Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Erdal Öz",
+            "Nahid Sırrı Örik",
+            "Halid Ziya Uşaklıgil",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correct": "Yakup Kadri Karaosmanoğlu"
+    },
+    {
+        "id": "78",
+        "question": "Eski Hastalık Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Midhat Efendi",
+            "Reşat Nuri Güntekin",
+            "Hakan Günday",
+            "Sait Faik Abasıyanık"
+        ],
+        "correct": "Reşat Nuri Güntekin"
+    },
+    {
+        "id": "79",
+        "question": "Mutluluk Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Reşat Nuri Güntekin",
+            "Nahid Sırrı Örik",
+            "Ahmet Midhat Efendi",
+            "Zülfü Livaneli"
+        ],
+        "correct": "Zülfü Livaneli"
+    },
+    {
+        "id": "80",
+        "question": "Şimdiki Çocuklar Harika Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ayhan Geçgin",
+            "Ayşe Kulin",
+            "Ahmet Midhat Efendi",
+            "Aziz Nesin"
+        ],
+        "correct": "Aziz Nesin"
+    },
+    {
+        "id": "81",
+        "question": "Boğazkesen Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Erdal Öz",
+            "Reşat Nuri Güntekin",
+            "Suat Derviş",
+            "Nedim Gürsel"
+        ],
+        "correct": "Nedim Gürsel"
+    },
+    {
+        "id": "82",
+        "question": "Karartma Geceleri Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Nâzım Hikmet",
+            "Abdülhak Şinasi Hisar",
+            "Rıfat Ilgaz",
+            "Nahid Sırrı Örik"
+        ],
+        "correct": "Rıfat Ilgaz"
+    },
+    {
+        "id": "83",
+        "question": "Matmazel Noraliya’nın Koltuğu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yakup Kadri Karaosmanoğlu",
+            "Bilge Karasu",
+            "Füruzan",
+            "Peyami Safa"
+        ],
+        "correct": "Peyami Safa"
+    },
+    {
+        "id": "84",
+        "question": "Sahnenin Dışındakiler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Hamdi Tanpınar",
+            "Orhan Pamuk",
+            "Yaşar Kemal",
+            "Ahmet Midhat Efendi"
+        ],
+        "correct": "Ahmet Hamdi Tanpınar"
+    },
+    {
+        "id": "85",
+        "question": "Yaralısın Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Adalet Ağaoğlu",
+            "Erdal Öz",
+            "Oğuz Atay",
+            "Nâzım Hikmet"
+        ],
+        "correct": "Erdal Öz"
+    },
+    {
+        "id": "86",
+        "question": "Yeşilçam Dedikleri Türkiye Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Adalet Ağaoğlu",
+            "Peyami Safa",
+            "Reşat Nuri Güntekin",
+            "Vedat Türkali"
+        ],
+        "correct": "Vedat Türkali"
+    },
+    {
+        "id": "87",
+        "question": "Ankara Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Ümit",
+            "Hasan Ali Toptaş",
+            "Abdülhak Şinasi Hisar",
+            "Yakup Kadri Karaosmanoğlu"
+        ],
+        "correct": "Yakup Kadri Karaosmanoğlu"
+    },
+    {
+        "id": "88",
+        "question": "Araba Sevdası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Recaizade Mahmut Ekrem",
+            "Orhan Kemal",
+            "Ahmet Hamdi Tanpınar",
+            "Metin Kaçan"
+        ],
+        "correct": "Recaizade Mahmut Ekrem"
+    },
+    {
+        "id": "89",
+        "question": "Ateş Gecesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Erdal Öz",
+            "Reşat Nuri Güntekin",
+            "Yaşar Kemal",
+            "Latife Tekin"
+        ],
+        "correct": "Reşat Nuri Güntekin"
+    },
+    {
+        "id": "90",
+        "question": "Çılgın Gibi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Selim İleri",
+            "Suat Derviş",
+            "Halid Ziya Uşaklıgil",
+            "Sait Faik Abasıyanık"
+        ],
+        "correct": "Suat Derviş"
+    },
+    {
+        "id": "91",
+        "question": "Göçmüş Kediler Bahçesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Nahid Sırrı Örik",
+            "Adalet Ağaoğlu",
+            "Bilge Karasu",
+            "Metin Kaçan"
+        ],
+        "correct": "Bilge Karasu"
+    },
+    {
+        "id": "92",
+        "question": "Handan Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Halide Edib Adıvar",
+            "Peyami Safa",
+            "Suat Derviş",
+            "Ahmet Hamdi Tanpınar"
+        ],
+        "correct": "Halide Edib Adıvar"
+    },
+    {
+        "id": "93",
+        "question": "Mahur Beste Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Erdal Öz",
+            "Ahmet Hamdi Tanpınar",
+            "Leyla Erbil",
+            "Çetin Altan"
+        ],
+        "correct": "Ahmet Hamdi Tanpınar"
+    },
+    {
+        "id": "94",
+        "question": "Şu Çılgın Türkler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Halide Edib Adıvar",
+            "Halit Ziya Uşaklıgil",
+            "Turgut Özakman",
+            "Ayfer Tunç"
+        ],
+        "correct": "Turgut Özakman"
+    },
+    {
+        "id": "95",
+        "question": "Tütün Zamanı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Reşat Nuri Güntekin",
+            "Necati Cumalı",
+            "Yakup Kadri Karaosmanoğlu",
+            "Erdal Öz"
+        ],
+        "correct": "Necati Cumalı"
+    },
+    {
+        "id": "96",
+        "question": "Veda Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Nahid Sırrı Örik",
+            "Yusuf Atılgan",
+            "Reşat Nuri Güntekin",
+            "Ayşe Kulin"
+        ],
+        "correct": "Ayşe Kulin"
+    },
+    {
+        "id": "97",
+        "question": "Viski Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Çetin Altan",
+            "Peyami Safa",
+            "Sabahattin Ali",
+            "Aziz Nesin"
+        ],
+        "correct": "Çetin Altan"
+    },
+    {
+        "id": "98",
+        "question": "Yalan Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Halide Edib Adıvar",
+            "Orhan Pamuk",
+            "Hakan Günday",
+            "Tahsin Yücel"
+        ],
+        "correct": "Tahsin Yücel"
+    }
+]

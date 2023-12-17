@@ -11,6 +11,23 @@
 
 </head>
 <body>
+	
+  <div id="user-info">
+	<center>
+		<div id="info">
+		<h3>Kayıt Bilgileri</h3>
+	  <!-- Button for "ad" -->
+	  <input id="username" type="text" placeholder="Kullanıcı Adı" required>
+  
+	  <!-- Button for "soyad" -->
+  
+	  <button id="start-button">Başla</button>
+	  <!-- You can add more content or functionality here if needed -->
+	</div>
+	</center>
+	
+  </div>
+
 <div class="start-screen">
 	<h2>HAZIR MISIN?</h2>
 	<div class="switch-button"><span class="active"></span>
@@ -25,8 +42,19 @@
     	<button class="switch-button-case2 right2">Çocuk</button>
 	  </div>
 	  
-	<button id="start-button">Başla</button>
+	  <div class="button-container">
+		<button class="main-button smaller" id="go-scoreboard">Skor Tablosu</button>
+		<button class="main-button larger" id="go-info">Başla</button>
+		<button class="main-button smaller" id="go-library">Kütüphane</button>
+	</div>
+	
+	
+
 </div>
+
+
+  
+
 <div id="wrapper">
 	<div id="display-container">
 		<div class="time">
@@ -46,25 +74,76 @@
 		
 		<div id="container">
 		</div>
-		<div class="btn-container">		
+		<div class="btn-container">	
 			<h3 id="scoretxt"></h3>
-
+			<div class="card1" onclick="handleClickOne(1)" value="1">
+					<div class="card-inner" >
+						<div class="card-front">
+							<h5>50:50</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+				
+			<div class="card2" onclick="handleClickTwo(2)">
+				<div class="card-inner" >
+					<div class="card-front">
+						
+						<h5>x2</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
 			<button id="next-button">Sonraki</button>
 		</div>
+		
 	</div>
 	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank">YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
 </div>
 <div class="score-container hide">
 	<div id="user-score"></div>
 	<button id="restart">Tekrar Dene!</button>
+	<button id="mainmenu">Menüye Dön</button>
 </div>
 <!-- partial -->
-<script defer src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
-<script defer type="module" src="https://www.gstatic.com/firebasejs/9.6.1/firebase-database.js"></script>
-<script defer src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
-<script defer src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-database-compat.js"></script>
 
-  <script  src="./script.js"></script>
+
+  <script src="./script.js"></script>
+  <script type="module">
+	// Import the functions you need from the SDKs you need
+	import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+	import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-analytics.js";
+	// TODO: Add SDKs for Firebase products that you want to use
+	// https://firebase.google.com/docs/web/setup#available-libraries
+  
+	// Your web app's Firebase configuration
+	// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+	const firebaseConfig = {
+	  apiKey: "AIzaSyCP4n6vjz7c46N47aRft0-J4LyVPvUSui8",
+	  authDomain: "findbook-23e68.firebaseapp.com",
+	  databaseURL: "https://findbook-23e68-default-rtdb.europe-west1.firebasedatabase.app",
+	  projectId: "findbook-23e68",
+	  storageBucket: "findbook-23e68.appspot.com",
+	  messagingSenderId: "677177090624",
+	  appId: "1:677177090624:web:bc2e38edf49993b58775a5",
+	  measurementId: "G-D8F97D7MPF"
+	};
+  
+	// Initialize Firebase
+	const app = initializeApp(firebaseConfig);
+	const analytics = getAnalytics(app);
+  </script>
 
 </body>
 </html>
