@@ -1,0 +1,662 @@
+[
+    {
+        "id": "0",
+        "question": "Küçük Prens Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Cahit Zarifoğlu",
+            "Antoine de Saint-Exupéry",
+            "Ahmet Ümit",
+            "Natalie Babbitt"
+        ],
+        "correct": "Antoine de Saint-Exupéry"
+    },
+    {
+        "id": "1",
+        "question": "Şeker Portakalı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Howard Pyle",
+            "José Mauro de Vasconcelos",
+            "Oscar Wilde",
+            "Mary Mapes Dodge"
+        ],
+        "correct": "José Mauro de Vasconcelos"
+    },
+    {
+        "id": "2",
+        "question": "Küçük Kara Balık Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Oscar Wilde",
+            "Ferenc Molnar",
+            "Howard Pyle"
+        ],
+        "correct": "Samed Behrengi"
+    },
+    {
+        "id": "3",
+        "question": "Çizgili Pijamalı Çocuk Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mark Twain",
+            "Samed Behrengi",
+            "Ferenc Molnar",
+            "John Boyne"
+        ],
+        "correct": "John Boyne"
+    },
+    {
+        "id": "4",
+        "question": "Mutlu Prens Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Natalie Babbitt",
+            "Oscar Wilde",
+            "Samed Behrengi",
+            "Carlo Collodi"
+        ],
+        "correct": "Oscar Wilde"
+    },
+    {
+        "id": "5",
+        "question": "Alice Harikalar Diyarında Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Lewis Carroll",
+            "Mary Mapes Dodge",
+            "Mark Twain"
+        ],
+        "correct": "Lewis Carroll"
+    },
+    {
+        "id": "6",
+        "question": "Çocuk Kalbi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Edmondo De Amicis",
+            "Eleanor Coerr",
+            "Robert Louis Stevenson",
+            "Vladimir Tumanov"
+        ],
+        "correct": "Edmondo De Amicis"
+    },
+    {
+        "id": "7",
+        "question": "Pal Sokağı Çocukları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jules Verne",
+            "Aziz Nesin",
+            "Ferenc Molnar",
+            "Hans Christian Andersen"
+        ],
+        "correct": "Ferenc Molnar"
+    },
+    {
+        "id": "8",
+        "question": "Pollyanna Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Johanna Spyri",
+            "Ömer Seyfettin",
+            "Eleanor H. Porter",
+            "Jean de La Fontaine"
+        ],
+        "correct": "Eleanor H. Porter"
+    },
+    {
+        "id": "9",
+        "question": "Mucize Adlı kitabın yazarı kimdir?",
+        "options": [
+            "R. J. Palacio",
+            "Ömer Seyfettin",
+            "Eleanor Coerr",
+            "Oscar Wilde"
+        ],
+        "correct": "R. J. Palacio"
+    },
+    {
+        "id": "10",
+        "question": "Ay'a Yolculuk Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Cahit Zarifoğlu",
+            "Hans Christian Andersen",
+            "Jules Verne",
+            "Mark Twain"
+        ],
+        "correct": "Jules Verne"
+    },
+    {
+        "id": "11",
+        "question": "Pinokyo Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Robert Louis Stevenson",
+            "Ferenc Molnar",
+            "Carlo Collodi",
+            "Samed Behrengi"
+        ],
+        "correct": "Carlo Collodi"
+    },
+    {
+        "id": "12",
+        "question": "Peter Pan Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Eleanor H. Porter",
+            "Şermin Yaşar",
+            "Sait Faik Abasıyanık",
+            "J. M. Barrie"
+        ],
+        "correct": "J. M. Barrie"
+    },
+    {
+        "id": "13",
+        "question": "Tom Sawyer’ın Maceraları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peter Boxall",
+            "Jules Verne",
+            "Mark Twain",
+            "Vladimir Tumanov"
+        ],
+        "correct": "Mark Twain"
+    },
+    {
+        "id": "14",
+        "question": "Ölmeden Önce Okumanız Gereken 1001 Kitap Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jules Verne",
+            "Peter Boxall",
+            "Carlo Collodi",
+            "Eleanor Coerr"
+        ],
+        "correct": "Peter Boxall"
+    },
+    {
+        "id": "15",
+        "question": "Heidi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sevim Ak",
+            "Samed Behrengi",
+            "Roald Dahl",
+            "Johanna Spyri"
+        ],
+        "correct": "Johanna Spyri"
+    },
+    {
+        "id": "16",
+        "question": "Define Adası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hans Christian Andersen",
+            "Robert Louis Stevenson",
+            "Aisopos",
+            "Lewis Carroll"
+        ],
+        "correct": "Robert Louis Stevenson"
+    },
+    {
+        "id": "17",
+        "question": "Şimdiki Çocuklar Harika Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ömer Seyfettin",
+            "Jules Verne",
+            "Aziz Nesin",
+            "Ahmet Ümit"
+        ],
+        "correct": "Aziz Nesin"
+    },
+    {
+        "id": "18",
+        "question": "Kaşağı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "Ömer Seyfettin",
+            "Samed Behrengi",
+            "José Mauro de Vasconcelos"
+        ],
+        "correct": "Ömer Seyfettin"
+    },
+    {
+        "id": "19",
+        "question": "Dünyanın Merkezine Seyahat Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ömer Seyfettin",
+            "Jules Verne",
+            "Şermin Yaşar",
+            "Carlo Collodi"
+        ],
+        "correct": "Jules Verne"
+    },
+    {
+        "id": "20",
+        "question": "Gulliver'in Seyahatleri Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Natalie Babbitt",
+            "Samed Behrengi",
+            "Ömer Seyfettin",
+            "Jonathan Swift"
+        ],
+        "correct": "Jonathan Swift"
+    },
+    {
+        "id": "21",
+        "question": "Bir Şeftali Bin Şeftali Adlı kitabın yazarı kimdir?",
+        "options": [
+            "R. J. Palacio",
+            "Yaşar Kemal",
+            "Lewis Carroll",
+            "Samed Behrengi"
+        ],
+        "correct": "Samed Behrengi"
+    },
+    {
+        "id": "22",
+        "question": "Gizli Bahçe Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Frances Hodgson Burnett",
+            "Cahit Zarifoğlu",
+            "J. M. Barrie",
+            "Robert Louis Stevenson"
+        ],
+        "correct": "Frances Hodgson Burnett"
+    },
+    {
+        "id": "23",
+        "question": "Filler Sultanı ile Kırmızı Sakallı Topal Karınca Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Yaşar Kemal",
+            "Eleanor H. Porter",
+            "R. J. Palacio",
+            "Antoine de Saint-Exupéry"
+        ],
+        "correct": "Yaşar Kemal"
+    },
+    {
+        "id": "24",
+        "question": "Charlie'nin Çikolata Fabrikası Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mark Twain",
+            "Yaşar Kemal",
+            "Roald Dahl",
+            "Ömer Seyfettin"
+        ],
+        "correct": "Roald Dahl"
+    },
+    {
+        "id": "25",
+        "question": "Robin Hood Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mary Mapes Dodge",
+            "Elif Şafak",
+            "Samed Behrengi",
+            "Howard Pyle"
+        ],
+        "correct": "Howard Pyle"
+    },
+    {
+        "id": "26",
+        "question": "Masal Masal İçinde Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jules Verne",
+            "Ömer Seyfettin",
+            "Ahmet Ümit",
+            "Edith Nesbit"
+        ],
+        "correct": "Ahmet Ümit"
+    },
+    {
+        "id": "27",
+        "question": "Ömer Seyfettin'den Seçme Hikayeler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mary Mapes Dodge",
+            "Jules Verne",
+            "Ömer Seyfettin",
+            "Samed Behrengi"
+        ],
+        "correct": "Ömer Seyfettin"
+    },
+    {
+        "id": "28",
+        "question": "Yalnız Efe Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Charles Perrault",
+            "Ömer Seyfettin",
+            "Jules Verne"
+        ],
+        "correct": "Ömer Seyfettin"
+    },
+    {
+        "id": "29",
+        "question": "Demiryolu Çocukları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Edith Nesbit",
+            "Ömer Seyfettin",
+            "Jules Verne",
+            "Roald Dahl"
+        ],
+        "correct": "Edith Nesbit"
+    },
+    {
+        "id": "30",
+        "question": "Gece Uçuşu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hans Christian Andersen",
+            "Charles Perrault",
+            "Antoine de Saint-Exupéry",
+            "Johanna Spyri"
+        ],
+        "correct": "Antoine de Saint-Exupéry"
+    },
+    {
+        "id": "31",
+        "question": "Şermin Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Oscar Wilde",
+            "Roald Dahl",
+            "Tevfik Fikret",
+            "Antoine de Saint-Exupéry"
+        ],
+        "correct": "Tevfik Fikret"
+    },
+    {
+        "id": "32",
+        "question": "Sadako ve Kağıttan Bin Turna Kuşu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Vladimir Tumanov",
+            "Aisopos",
+            "Eleanor Coerr"
+        ],
+        "correct": "Eleanor Coerr"
+    },
+    {
+        "id": "33",
+        "question": "Dedemin Bakkalı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "José Mauro de Vasconcelos",
+            "Ahmet Ümit",
+            "Vladimir Tumanov",
+            "Şermin Yaşar"
+        ],
+        "correct": "Şermin Yaşar"
+    },
+    {
+        "id": "34",
+        "question": "Kraliçeyi Kurtarmak Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Carlo Collodi",
+            "Samed Behrengi",
+            "Vladimir Tumanov",
+            "Elif Şafak"
+        ],
+        "correct": "Vladimir Tumanov"
+    },
+    {
+        "id": "35",
+        "question": "Seçme Hikayeler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mary Mapes Dodge",
+            "Peter Boxall",
+            "Sait Faik Abasıyanık",
+            "Samed Behrengi"
+        ],
+        "correct": "Sait Faik Abasıyanık"
+    },
+    {
+        "id": "36",
+        "question": "Ezop Masalları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Ömer Seyfettin",
+            "Hans Christian Andersen",
+            "Aisopos"
+        ],
+        "correct": "Aisopos"
+    },
+    {
+        "id": "37",
+        "question": "Matilda Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Roald Dahl",
+            "Edith Nesbit",
+            "Eleanor H. Porter",
+            "Şermin Yaşar"
+        ],
+        "correct": "Roald Dahl"
+    },
+    {
+        "id": "38",
+        "question": "Mutlu Prens - Bütün Masallar, Bütün Öyküler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peter Boxall",
+            "Oscar Wilde",
+            "Jules Verne",
+            "Mark Twain"
+        ],
+        "correct": "Oscar Wilde"
+    },
+    {
+        "id": "39",
+        "question": "Sakız Sardunya Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Ümit",
+            "Sait Faik Abasıyanık",
+            "Hans Christian Andersen",
+            "Elif Şafak"
+        ],
+        "correct": "Elif Şafak"
+    },
+    {
+        "id": "40",
+        "question": "Kibritçi Kız Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Robert Louis Stevenson",
+            "Hans Christian Andersen",
+            "Roald Dahl",
+            "Lewis Carroll"
+        ],
+        "correct": "Hans Christian Andersen"
+    },
+    {
+        "id": "41",
+        "question": "Pembe İncili Kaftan Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Robert Louis Stevenson",
+            "Samed Behrengi",
+            "Ferenc Molnar",
+            "Ömer Seyfettin"
+        ],
+        "correct": "Ömer Seyfettin"
+    },
+    {
+        "id": "42",
+        "question": "Haritada Kaybolmak Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Vladimir Tumanov",
+            "Eleanor H. Porter",
+            "Jules Verne",
+            "Howard Pyle"
+        ],
+        "correct": "Vladimir Tumanov"
+    },
+    {
+        "id": "43",
+        "question": "Son Ada'nın Çocukları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Zülfü Livaneli",
+            "Yaşar Kemal",
+            "Aziz Nesin",
+            "Antoine de Saint-Exupéry"
+        ],
+        "correct": "Zülfü Livaneli"
+    },
+    {
+        "id": "44",
+        "question": "Prens ve Dilenci Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "Aisopos",
+            "Mark Twain",
+            "Oscar Wilde"
+        ],
+        "correct": "Mark Twain"
+    },
+    {
+        "id": "45",
+        "question": "Küçük Kemancı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jules Verne",
+            "Eleanor H. Porter",
+            "Ömer Seyfettin",
+            "Şermin Yaşar"
+        ],
+        "correct": "Eleanor H. Porter"
+    },
+    {
+        "id": "46",
+        "question": "Kaptan Grant'ın Çocukları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Sevim Ak",
+            "Jules Verne",
+            "Vladimir Tumanov",
+            "Elif Şafak"
+        ],
+        "correct": "Jules Verne"
+    },
+    {
+        "id": "47",
+        "question": "Sevgi Masalı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Peter Boxall",
+            "Samed Behrengi",
+            "J. M. Barrie",
+            "Mark Twain"
+        ],
+        "correct": "Samed Behrengi"
+    },
+    {
+        "id": "48",
+        "question": "Esrarlı Ada Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jules Verne",
+            "Cahit Zarifoğlu",
+            "Samed Behrengi",
+            "Ömer Seyfettin"
+        ],
+        "correct": "Jules Verne"
+    },
+    {
+        "id": "49",
+        "question": "Ölümsüz Aile Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Vladimir Tumanov",
+            "Lewis Carroll",
+            "Natalie Babbitt",
+            "Şermin Yaşar"
+        ],
+        "correct": "Natalie Babbitt"
+    },
+    {
+        "id": "50",
+        "question": "Olmayan Ülke Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ahmet Ümit",
+            "Jules Verne",
+            "Şermin Yaşar",
+            "Hans Christian Andersen"
+        ],
+        "correct": "Ahmet Ümit"
+    },
+    {
+        "id": "51",
+        "question": "Masallar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Oscar Wilde",
+            "Charles Perrault",
+            "Antoine de Saint-Exupéry",
+            "Jean de La Fontaine"
+        ],
+        "correct": "Jean de La Fontaine"
+    },
+    {
+        "id": "52",
+        "question": "Gümüş Patenler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Mary Mapes Dodge",
+            "Mark Twain",
+            "Carlo Collodi",
+            "José Mauro de Vasconcelos"
+        ],
+        "correct": "Mary Mapes Dodge"
+    },
+    {
+        "id": "53",
+        "question": "Perili Köşk Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Ömer Seyfettin",
+            "Şermin Yaşar",
+            "Mary Mapes Dodge",
+            "Carlo Collodi"
+        ],
+        "correct": "Ömer Seyfettin"
+    },
+    {
+        "id": "54",
+        "question": "Andersen Masalları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Hans Christian Andersen",
+            "Vladimir Tumanov",
+            "Antoine de Saint-Exupéry",
+            "Aisopos"
+        ],
+        "correct": "Hans Christian Andersen"
+    },
+    {
+        "id": "55",
+        "question": "Abartma Tozu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jean de La Fontaine",
+            "Hans Christian Andersen",
+            "Yaşar Kemal",
+            "Şermin Yaşar"
+        ],
+        "correct": "Şermin Yaşar"
+    },
+    {
+        "id": "56",
+        "question": "Sinderella (Kül Kedisi) Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Eleanor Coerr",
+            "Lewis Carroll",
+            "Charles Perrault",
+            "Hans Christian Andersen"
+        ],
+        "correct": "Charles Perrault"
+    },
+    {
+        "id": "57",
+        "question": "Ulduz ve Kargalar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Samed Behrengi",
+            "Howard Pyle",
+            "Oscar Wilde",
+            "Cahit Zarifoğlu"
+        ],
+        "correct": "Samed Behrengi"
+    },
+    {
+        "id": "58",
+        "question": "Serçekuş Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Lewis Carroll",
+            "Cahit Zarifoğlu",
+            "Vladimir Tumanov",
+            "Hans Christian Andersen"
+        ],
+        "correct": "Cahit Zarifoğlu"
+    },
+    {
+        "id": "59",
+        "question": "Vanilya Kokulu Mektuplar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Johanna Spyri",
+            "Sevim Ak",
+            "Ahmet Ümit",
+            "Roald Dahl"
+        ],
+        "correct": "Sevim Ak"
+    }
+]

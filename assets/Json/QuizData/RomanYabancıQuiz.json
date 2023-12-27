@@ -1,0 +1,497 @@
+[
+    {
+        "id": "0",
+        "question": "Hayvan Çiftliği Adlı kitabın yazarı kimdir?",
+        "options": [
+            "George Orwell",
+            "Anthony Burgess",
+            "Antoine de Saint-Exupéry",
+            "Fyodor Dostoyevski"
+        ],
+        "correct": "George Orwell"
+    },
+    {
+        "id": "1",
+        "question": "Satranç Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Aldous Huxley",
+            "Ivan Turgenyev",
+            "Grigory Petrov",
+            "Stefan Zweig"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "2",
+        "question": "Küçük Prens Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Montaigne",
+            "Anton Çehov",
+            "Franz Kafka",
+            "Antoine de Saint-Exupéry"
+        ],
+        "correct": "Antoine de Saint-Exupéry"
+    },
+    {
+        "id": "3",
+        "question": "Bilinmeyen Bir Kadının Mektubu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Charles Dickens",
+            "Stefan Zweig",
+            "Victor Hugo",
+            "Franz Kafka"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "4",
+        "question": "Dönüşüm Adlı kitabın yazarı kimdir?",
+        "options": [
+            "George Orwell",
+            "Lev Tolstoy",
+            "Franz Kafka",
+            "Ivan Turgenyev"
+        ],
+        "correct": "Franz Kafka"
+    },
+    {
+        "id": "5",
+        "question": "İnsan Neyle Yaşar? Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "George Orwell",
+            "Jack London",
+            "Lev Tolstoy"
+        ],
+        "correct": "Lev Tolstoy"
+    },
+    {
+        "id": "6",
+        "question": "Fareler ve İnsanlar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "John Steinbeck",
+            "Aldous Huxley",
+            "Franz Kafka",
+            "Charles Dickens"
+        ],
+        "correct": "John Steinbeck"
+    },
+    {
+        "id": "7",
+        "question": "1984 Adlı kitabın yazarı kimdir?",
+        "options": [
+            "George Orwell",
+            "Jack London",
+            "Albert Camus",
+            "Franz Kafka"
+        ],
+        "correct": "George Orwell"
+    },
+    {
+        "id": "8",
+        "question": "Suç ve Ceza Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Albert Camus",
+            "Fyodor Dostoyevski",
+            "Jane Austen",
+            "Stefan Zweig"
+        ],
+        "correct": "Fyodor Dostoyevski"
+    },
+    {
+        "id": "9",
+        "question": "Olağanüstü Bir Gece Adlı kitabın yazarı kimdir?",
+        "options": [
+            "George Orwell",
+            "Victor Hugo",
+            "Fyodor Dostoyevski",
+            "Stefan Zweig"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "10",
+        "question": "Yeraltından Notlar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Fyodor Dostoyevski",
+            "John Steinbeck",
+            "George Orwell"
+        ],
+        "correct": "Fyodor Dostoyevski"
+    },
+    {
+        "id": "11",
+        "question": "Bir Kadının Yaşamından Yirmi Dört Saat Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Montaigne",
+            "George Orwell",
+            "Anthony Burgess"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "12",
+        "question": "Genç Werther'in Acıları Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jack London",
+            "Montaigne",
+            "Johann Wolfgang Von Goethe",
+            "George Orwell"
+        ],
+        "correct": "Johann Wolfgang Von Goethe"
+    },
+    {
+        "id": "13",
+        "question": "Bir İdam Mahkûmunun Son Günü Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Oscar Wilde",
+            "Fyodor Dostoyevski",
+            "Victor Hugo",
+            "Lev Tolstoy"
+        ],
+        "correct": "Victor Hugo"
+    },
+    {
+        "id": "14",
+        "question": "Yabancı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Montaigne",
+            "Stefan Zweig",
+            "Albert Camus",
+            "Harper Lee"
+        ],
+        "correct": "Albert Camus"
+    },
+    {
+        "id": "15",
+        "question": "Amok Koşucusu Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Aldous Huxley",
+            "Fyodor Dostoyevski",
+            "J. D. Salinger"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "16",
+        "question": "Korku Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Platon (Eflatun)",
+            "Stefan Zweig",
+            "J. D. Salinger",
+            "Aldous Huxley"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "17",
+        "question": "Beyaz Zambaklar Ülkesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Grigory Petrov",
+            "Jack London",
+            "Stefan Zweig",
+            "Aldous Huxley"
+        ],
+        "correct": "Grigory Petrov"
+    },
+    {
+        "id": "18",
+        "question": "Otomatik Portakal Adlı kitabın yazarı kimdir?",
+        "options": [
+            "William Golding",
+            "Stefan Zweig",
+            "Oscar Wilde",
+            "Anthony Burgess"
+        ],
+        "correct": "Anthony Burgess"
+    },
+    {
+        "id": "19",
+        "question": "Sefiller (2 Cilt Takım) Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Victor Hugo",
+            "Fyodor Dostoyevski",
+            "Jack London",
+            "Lev Tolstoy"
+        ],
+        "correct": "Victor Hugo"
+    },
+    {
+        "id": "20",
+        "question": "Martin Eden Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jack London",
+            "Stefan Zweig",
+            "George Orwell",
+            "J. D. Salinger"
+        ],
+        "correct": "Jack London"
+    },
+    {
+        "id": "21",
+        "question": "Sineklerin Tanrısı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Victor Hugo",
+            "Stefan Zweig",
+            "Albert Camus",
+            "William Golding"
+        ],
+        "correct": "William Golding"
+    },
+    {
+        "id": "22",
+        "question": "Bir Çöküşün Öyküsü Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Montaigne",
+            "Stefan Zweig",
+            "John Steinbeck",
+            "Albert Camus"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "23",
+        "question": "Beyaz Diş Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Jack London",
+            "Franz Kafka",
+            "Albert Camus"
+        ],
+        "correct": "Jack London"
+    },
+    {
+        "id": "24",
+        "question": "Gurur ve Önyargı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "George Orwell",
+            "Antoine de Saint-Exupéry",
+            "Jane Austen"
+        ],
+        "correct": "Jane Austen"
+    },
+    {
+        "id": "25",
+        "question": "Beyaz Geceler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Franz Kafka",
+            "Fyodor Dostoyevski",
+            "Ivan Turgenyev"
+        ],
+        "correct": "Fyodor Dostoyevski"
+    },
+    {
+        "id": "26",
+        "question": "Bülbülü Öldürmek Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Harper Lee",
+            "Fyodor Dostoyevski",
+            "Platon (Eflatun)",
+            "George Orwell"
+        ],
+        "correct": "Harper Lee"
+    },
+    {
+        "id": "27",
+        "question": "Ermiş Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Halil Cibran",
+            "Fyodor Dostoyevski",
+            "William Shakespeare",
+            "Jack London"
+        ],
+        "correct": "Halil Cibran"
+    },
+    {
+        "id": "28",
+        "question": "Dorian Gray'in Portresi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "William Shakespeare",
+            "Harper Lee",
+            "Anton Çehov",
+            "Oscar Wilde"
+        ],
+        "correct": "Oscar Wilde"
+    },
+    {
+        "id": "29",
+        "question": "Altıncı Koğuş Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Jack London",
+            "Stefan Zweig",
+            "Anton Çehov",
+            "Platon (Eflatun)"
+        ],
+        "correct": "Anton Çehov"
+    },
+    {
+        "id": "30",
+        "question": "Kumarbaz Adlı kitabın yazarı kimdir?",
+        "options": [
+            "William Shakespeare",
+            "William Golding",
+            "Victor Hugo",
+            "Fyodor Dostoyevski"
+        ],
+        "correct": "Fyodor Dostoyevski"
+    },
+    {
+        "id": "31",
+        "question": "Ay Işığı Sokağı Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Grigory Petrov",
+            "Stefan Zweig",
+            "Lev Tolstoy",
+            "William Shakespeare"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "32",
+        "question": "Mecburiyet Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Franz Kafka",
+            "Fyodor Dostoyevski",
+            "Charles Dickens",
+            "Stefan Zweig"
+        ],
+        "correct": "Stefan Zweig"
+    },
+    {
+        "id": "33",
+        "question": "İnsancıklar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Fyodor Dostoyevski",
+            "Stefan Zweig",
+            "Harper Lee",
+            "Anton Çehov"
+        ],
+        "correct": "Fyodor Dostoyevski"
+    },
+    {
+        "id": "34",
+        "question": "Cesur Yeni Dünya Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Victor Hugo",
+            "Nikolay Gogol",
+            "Aldous Huxley"
+        ],
+        "correct": "Aldous Huxley"
+    },
+    {
+        "id": "35",
+        "question": "Romeo ve Juliet Adlı kitabın yazarı kimdir?",
+        "options": [
+            "William Shakespeare",
+            "Grigory Petrov",
+            "J. D. Salinger",
+            "Victor Hugo"
+        ],
+        "correct": "William Shakespeare"
+    },
+    {
+        "id": "36",
+        "question": "Çavdar Tarlasında Çocuklar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Fyodor Dostoyevski",
+            "William Golding",
+            "Franz Kafka",
+            "J. D. Salinger"
+        ],
+        "correct": "J. D. Salinger"
+    },
+    {
+        "id": "37",
+        "question": "İki Şehrin Hikâyesi Adlı kitabın yazarı kimdir?",
+        "options": [
+            "J. D. Salinger",
+            "Halil Cibran",
+            "Anthony Burgess",
+            "Charles Dickens"
+        ],
+        "correct": "Charles Dickens"
+    },
+    {
+        "id": "38",
+        "question": "Bir Delinin Anı Defteri - Palto - Burun - Petersburg Öyküleri ve Fayton Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "William Shakespeare",
+            "Nikolay Gogol",
+            "Fyodor Dostoyevski"
+        ],
+        "correct": "Nikolay Gogol"
+    },
+    {
+        "id": "39",
+        "question": "Denemeler Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Fyodor Dostoyevski",
+            "Jane Austen",
+            "Montaigne",
+            "William Shakespeare"
+        ],
+        "correct": "Montaigne"
+    },
+    {
+        "id": "40",
+        "question": "Milena'ya Mektuplar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Fyodor Dostoyevski",
+            "Stefan Zweig",
+            "Grigory Petrov",
+            "Franz Kafka"
+        ],
+        "correct": "Franz Kafka"
+    },
+    {
+        "id": "41",
+        "question": "Dava Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Stefan Zweig",
+            "Fyodor Dostoyevski",
+            "Franz Kafka",
+            "William Shakespeare"
+        ],
+        "correct": "Franz Kafka"
+    },
+    {
+        "id": "42",
+        "question": "Sokrates'in Savunması Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Anton Çehov",
+            "Platon (Eflatun)",
+            "Jack London",
+            "Stefan Zweig"
+        ],
+        "correct": "Platon (Eflatun)"
+    },
+    {
+        "id": "43",
+        "question": "Hamlet Adlı kitabın yazarı kimdir?",
+        "options": [
+            "William Golding",
+            "Montaigne",
+            "Lev Tolstoy",
+            "William Shakespeare"
+        ],
+        "correct": "William Shakespeare"
+    },
+    {
+        "id": "44",
+        "question": "Babalar ve Oğullar Adlı kitabın yazarı kimdir?",
+        "options": [
+            "Johann Wolfgang Von Goethe",
+            "Ivan Turgenyev",
+            "Victor Hugo",
+            "Fyodor Dostoyevski"
+        ],
+        "correct": "Ivan Turgenyev"
+    }
+]
