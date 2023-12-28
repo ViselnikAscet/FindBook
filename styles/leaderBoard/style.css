@@ -2,6 +2,8 @@
   font-size: 62, 5%;
   box-sizing: border-box;
   margin: 0;
+  cursor: url('../../assets/images/minimal-book-pointer.png'), auto;
+
 }
 
 body {

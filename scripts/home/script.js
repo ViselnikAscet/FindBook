@@ -23,7 +23,7 @@ let startScreen = document.querySelector(".start-screen");
 let gomenu = document.getElementById("go-menu");
 let library = document.getElementById("go-library");
 let scoreBoard = document.getElementById("go-scoreboard");
-
+let cocuk = document.getElementById("cocuk");
 let startButton = document.getElementById("start-button");
 let scoreCount = 0;
 let count = 11;
@@ -45,6 +45,7 @@ var switchButton2 = document.querySelector(".switch-button2");
 var switchBtnRight2 = document.querySelector(".switch-button-case2.right2");
 var switchBtnLeft2 = document.querySelector(".switch-button-case2.left2");
 var activeSwitch2 = document.querySelector(".active2");
+
 
 //FİREBASE
 const firebaseConfig = {
@@ -108,8 +109,9 @@ switchBtnLeft2.addEventListener(
   function () {
     switchLeft2();
     categorize = "Roman";
+    switchBtnRight2.classList.remove("active-case2");
+    switchBtnLeft2.classList.add("active-case2");
     fetchData();
-
     console.log(categorize);
   },
   false
@@ -120,6 +122,8 @@ switchBtnRight2.addEventListener(
   function () {
     switchRight2();
     categorize = "cocuk";
+    switchBtnLeft2.classList.remove("active-case2");
+    switchBtnRight2.classList.add("active-case2");
     fetchData();
     console.log(categorize);
   },
@@ -196,18 +200,21 @@ switchBtnmiddle.addEventListener(
 
 function fetchData() {
   if (categorize == "Roman" && gamemode == "turk") {
+    $("#cocuk").css("display" , "none");
     fetch("../../assets/Json/QuizData/RomanYerliQuiz.json")
       .then((response) => response.json())
       .then((data) => {
         quizArray = data;
       });
   } else if (categorize == "Roman" && gamemode == "global") {
+    $("#cocuk").css("display" , "none");
     fetch("../../assets/Json/QuizData/RomanYabancıQuiz.json")
       .then((response) => response.json())
       .then((data) => {
         quizArray = data;
       });
   } else if (categorize == "Roman" && gamemode == "mix") {
+    $("#cocuk").css("display" , "none");
     let turkQuestions, globalQuestions;
     fetch("../../assets/Json/QuizData/RomanYerliQuiz.json")
       .then((response) => response.json())
@@ -240,6 +247,15 @@ function fetchData() {
       });
   }
 }
+function cocukimg() {
+  // Check if the element with ID "wrapper" has the class "hide"
+  if (wrapper.classList.contains("hide")) {
+    // The element has the class "hide"
+      $("#cocuk").css("display" , "none");
+  } else if (categorize == "cocuk"){
+    $("#cocuk").css("display" , "flex");
+  }
+}
 
 // restart game
 restart.addEventListener("click", () => {
@@ -253,6 +269,7 @@ restart.addEventListener("click", () => {
 
 menu.addEventListener("click", () => {
   scoreContainer.classList.add("hide");
+  $("#cocuk").css("display" , "none");
   startScreen.classList.remove("hide");
 });
 // Next button
@@ -461,6 +478,7 @@ function checker(userOption) {
 }
 //initial setup
 function inital() {
+  cocukimg();
   quizContainer.innerHTML = "";
   wrong = 3;
   questionCount = 1;
@@ -487,16 +505,18 @@ startButton.addEventListener("click", () => {
 gomenu.addEventListener("click", () => {
   if (adSoyadInput.value.trim() === "") {
     // Eğer input alanlarından biri boşsa, kullanıcıyı uyar
-    alert("Skorunuzu Kaydedebilmemiz İçin Kullanıcı Adınızı Giriniz!");
+    Notiflix.Notify.failure("Skorunuzu Kaydedebilmemiz İçin Kullanıcı Adınızı Giriniz!");
   } else {
     user.classList.add("hide");
     startScreen.classList.remove("hide");
+    $("body").css("background-image" , "url('/assets/images/arkaplan.png')");
   }
 });
 
 //hide quiz and display start screen
 window.onload = () => {
   startScreen.classList.add("hide");
+  $("#cocuk").css("display" , "none");
   wrapper.classList.add("hide");
   user.classList.remove("hide");
 };
@@ -556,3 +576,15 @@ function resetCardState() {
   let flippedCards = document.querySelectorAll(".is-flipped");
   flippedCards.forEach((card) => card.classList.remove("is-flipped"));
 }
+
+
+Notiflix.Loading.hourglass('Yazarlar Kitap Yazıyor...');
+Notiflix.Loading.hourglass({
+clickToClose: true,
+svgSize: '19px',
+});
+Notiflix.Loading.hourglass('Loading...', {
+backgroundColor: 'rgba(0,0,0,0.8)',
+});
+
+Notiflix.Loading.remove(2000);

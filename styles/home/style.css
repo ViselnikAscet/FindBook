@@ -11,6 +11,8 @@
 	box-sizing: border-box;
 	font-family: "Poppins", sans-serif;
 	-webkit-tap-highlight-color: transparent;
+	cursor: url('../../assets/images/minimal-book-pointer.png'), auto;
+
 }
 body {
 	background-color: #0a69ed;
@@ -581,3 +583,11 @@ i.fab {
 .small-x {
 	font-size: 0.75em; /* Adjust this value to make x smaller or larger */
    }
+
+   #cocuk {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+  }

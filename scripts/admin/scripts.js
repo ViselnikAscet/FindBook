@@ -1,8 +1,8 @@
 // AngularJS uygulamasını başlatma
-var app = angular.module('myApp', ['ngRoute']);
+var app = angular.module('myApp', []);
 
 // Firebase'den veri almak için controller
-app.controller('ScoreController', function($scope) {
+app.controller('AdminController', function($scope ,$http,$window) {
 
     const firebaseConfig = {
         apiKey: "AIzaSyCP4n6vjz7c46N47aRft0-J4LyVPvUSui8",
@@ -17,33 +17,30 @@ app.controller('ScoreController', function($scope) {
     };
 
     firebase.initializeApp(firebaseConfig);
-
-    // Veritabanı referansı alınması
     const database = firebase.database();
 
-    // ScoresTable içindeki Scores'a erişim sağlama
-    const scoresRef = database.ref("AdminPanel/user-info");
+    // Veritabanı referansı alınması
     $scope.login = function() {
-        console.log("BASILDI")
-        var username = $scope.username;
+        var email = $scope.email;
         var password = $scope.password;
 
-        // Kullanıcı adı ve şifreyle Firebase veritabanında karşılaştırma yapma
-        const scoresRef = database.ref("AdminPanel/user-info");
-        scoresRef.once('value').then(function(snapshot) {
-            snapshot.forEach(function(childSnapshot) {
-                var childData = childSnapshot.val();
-                if (childData.username === username && childData.password === password) {
-                    // Kullanıcı adı ve şifre doğru ise
-                    $scope.uyari = "Giriş başarılı!";
-                    // İlgili işlemleri yapabilirsiniz
-                } else {
-                    // Kullanıcı adı veya şifre yanlış ise
-                    $scope.uyari = "Kullanıcı adı veya şifre yanlış!";
-                }
-            });
-        });
-    };
+        // Kullanıcı bilgilerini Firebase Realtime Database'den kontrol etme
+        var usersRef = database.ref("AdminPanel/user-info");
+        usersRef.once('value')
+          .then(function(snapshot) {
+            var userInfo = snapshot.val();
+            var user = userInfo.mert; // Kullanıcı adı "mert" örneği
 
+            if (user.email === email && user.password === password) {
+                $window.location.href = '../../pages/admin/admin.html';              // Başarılı giriş, istediğiniz işlemleri yapabilirsiniz (örneğin yönlendirme)
+            } else {
+              console.log('Giriş başarısız. Kullanıcı adı veya şifre hatalı.');
+              // Hatalı giriş durumunda kullanıcıya bildirim gösterebilirsiniz
+            }
+          })
+          .catch(function(error) {
+            console.error("Hata oluştu: ", error);
+          });
+      };
 
 });

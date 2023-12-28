@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en"  ng-app="App">
+<head>
+  <meta charset="UTF-8">
+  <title>Bil Bakalım Kim</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;display=swap'>
+  <link rel="icon" href="../../assets/images/webSiteIcon.ico">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-resource.min.js"></script>
+
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css'><link rel="stylesheet" href="../../styles/home/style.css">
+
+</head>
+<body ng-controller="HomeController" ng-init="onLoad()">
+    <div  >
+        <div ng-model="user" id="user-info">
+<center>
+	<div id="info">
+		<h3>Kayıt Bilgileri</h3>
+		<input id="username" type="text" ng-model="username" placeholder="Kullanıcı Adı"  required>
+        <button id="go-menu" ng-click="goMenu()">Başla</button>
+	</div>
+</center>
+</div>
+
+<div ng-model="startScreen" class="start-screen">
+	<h2>HAZIR MISIN?</h2>
+    <div class="switch-button">
+        <span class="active"></span>
+        <button class="switch-button-case left active-case" ng-click="switchLeft()">Yerli</button>
+        <button class="switch-button-case middle" ng-click="switchMiddle()">Yabancı</button>
+        <button class="switch-button-case right" ng-click="switchRight()">Karışık</button>
+      </div>
+    
+      <div class="switch-button2">
+        <span class="active2"></span>
+        <button class="switch-button-case2 left2 active-case2" ng-click="switchLeft2()">Roman</button>
+        <button class="switch-button-case2 right2" ng-click="switchRight2()">Çocuk</button>
+      </div>
+
+	  <div class="button-container">
+		<button class="main-button smaller" id="go-scoreboard" ng-click="goScoreBoard()">Skor Tablosu</button>
+		<button class="main-button larger" id="start-button" ng-click="goLibrary()">Başla</button>
+		<button class="main-button smaller" id="go-library" ng-click="startGame()">Kütüphane</button>
+	</div>
+
+</div>
+
+
+<div  ng-model="wrapper" id="wrapper">
+	<div id="display-container">
+		<div class="time">
+            <div class="actualTime" ng-model="mybar" id="progressBar"></div>
+        </div>
+		<div class="header">
+			<div class="number-of-count">
+				<span class="number-of-question">1.Soru</span>
+			</div>
+			<h4 id="scoreGoster">Puan: 0</h4>
+            <div class="timer-div">
+                <i class="fa-solid fas fa-heart" style="color: red"  ng-model="heart1" id="heart1"></i>
+                <i class="fa-solid fas fa-heart" style="color: red" ng-model="heart2" id="heart2"></i>
+                <i class="fa-solid fas fa-heart" style="color: red"  ng-model="heart3"id="heart3"></i>
+            </div>
+		</div>
+		
+		<div id="container">
+		</div>
+		<div class="btn-container">	
+			<h3 id="scoretxt"></h3>
+			<div class="card1"  ng-click="handleClickOne(1)" value="1">
+					<div class="card-inner" >
+						<div class="card-front">
+							<h5>50:50</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+				
+			<div class="card2" ng-click="handleClickTwo(2)">
+				<div class="card-inner" >
+					<div class="card-front">
+						
+						<h5>x2</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+			<button id="next-button" ng-click="goToNext()">Sonraki</button>
+		</div>
+		
+	</div>
+	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank">YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
+</div>
+<div class="score-container hide">
+	<div id="user-score">{{ userScore }}</div>
+	<button id="restart" ng-click="restartGame()" >Tekrar Dene!</button>
+	<button id="mainmenu" ng-click="goToMenu()">Menüye Dön</button>
+</div>
+</div>
+	
+
+<!-- partial -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-database-compat.js"></script>
+
+
+  <script src="../../scripts/home/script2.js"></script>
+  <script type="module" src="../../scripts/home/firebase.js"></script>
+
+</body>
+</html>
