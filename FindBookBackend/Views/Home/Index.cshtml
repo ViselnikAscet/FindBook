@@ -1,0 +1,129 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+	
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Bil Bakalım Kim</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;display=swap'>
+  <link rel="icon" href="~/assets/images/webSiteIcon.ico">
+  <script src="~/lib/Jquery/jquery-3.6.4.min.js"></script>
+
+  	<script  src="~/lib/Notflix/notiflix-notify-aio-3.2.6.min.js"></script>
+	<link rel="stylesheet" href="../../styles/lib/Notflix/notiflix-3.2.6.min.css" />
+	<script  src="~/lib/Notflix/notiflix-3.2.6.min.js" ></script>
+	<script  src="~/lib/Notflix/notiflix-aio-3.2.6.min.js"></script>
+
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css'>
+	<link rel="stylesheet" href="~/css/home/style.css" asp-append-version="true" />
+
+
+</head>
+<body>
+	
+<div id="user-info">
+<center>
+	<div id="info">
+		<h3>Kayıt Bilgileri</h3>
+		<input id="username" type="text" placeholder="Kullanıcı Adı" required>
+		<button id="go-menu">Başla</button>
+	</div>
+</center>
+</div>
+
+<div class="start-screen">
+	<h2>HAZIR MISIN?</h2>
+	<div class="switch-button"><span class="active"></span>
+		<button class="switch-button-case left active-case">Yerli</button>
+		<button class="switch-button-case middle">Yabancı</button>
+    	<button class="switch-button-case right">Karışık</button>
+	  </div>
+
+
+	  <div class="switch-button2"><span class="active2"></span>
+		<button class="switch-button-case2 left2 active-case2">Roman</button>
+    	<button class="switch-button-case2 right2">Çocuk</button>
+	  </div>
+	  
+	  <div class="button-container">
+		<button class="main-button smaller" onclick="window.location.href='/Scoreboard/Index'" id="go-scoreboard">Skor Tablosu</button>
+		<button class="main-button larger" id="start-button">Başla</button>
+		<button class="main-button smaller" onclick="window.location.href='/Library/Index'" id="go-library">Kütüphane</button>
+	</div>
+
+</div>
+
+
+<div id="wrapper">
+	<div id="display-container">
+		<div class="time">
+            <div class="actualTime" id="progressBar"></div>
+        </div>
+		<div class="header">
+			<div class="number-of-count">
+				<span class="number-of-question">1.Soru</span>
+			</div>
+			<h4 id="scoreGoster">Puan: 0</h4>
+            <div class="timer-div">
+                <i class="fa-solid fas fa-heart" style="color: red" id="heart1"></i>
+                <i class="fa-solid fas fa-heart" style="color: red" id="heart2"></i>
+                <i class="fa-solid fas fa-heart" style="color: red" id="heart3"></i>
+            </div>
+		</div>
+		
+		<div id="container">
+		</div>
+		<div class="btn-container">	
+			<h3 id="scoretxt"></h3>
+			<div class="card1" onclick="handleClickOne(1)" value="1">
+					<div class="card-inner" >
+						<div class="card-front">
+							<h5>50:50</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+				
+			<div class="card2" onclick="handleClickTwo(2)">
+				<div class="card-inner" >
+					<div class="card-front">
+						
+						<h5>x2</h5>
+					</div>
+					<div class="card-back">
+						<!-- FontAwesome ikonunu özel boyut sınıflarıyla büyütme -->
+						<i class="fas fa-check-circle icon-large"></i>
+					</div>            
+				</div>
+			</div>
+			<button id="next-button">Sonraki</button>
+		</div>
+		
+	</div>
+	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank">YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
+</div>
+<div class="score-container hide">
+	<div id="user-score"></div>
+	<button id="restart">Tekrar Dene!</button>
+	<button id="mainmenu">Menüye Dön</button>
+</div>
+<!-- partial -->
+<script src="~/lib/Firebase/firebase-app-compat.js"></script>
+<script src="~/lib/Firebase/firebase-firestore-compat.js"></script>
+<script src="~/lib/Firebase/firebase-auth-compat.js"></script>
+<script src="~/lib/Firebase/firebase-database-compat.js"></script>
+
+
+  <script src="~/js/home/script.js"></script>
+  <script type="module" src="~/js/home/firebase.js"></script>
+
+
+  <img src="~/assets/images/cocuk.png"  alt="cocuk" id="cocuk">;
+</body>
+</html>

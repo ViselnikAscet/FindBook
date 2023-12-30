@@ -91,7 +91,7 @@ function switchRight2() {
 library.addEventListener(
   "click",
   function () {
-    window.open("./library/index.html", "_blank");
+    window.open("../../pages/library/index.html", "_blank");
   },
   false
 );
@@ -99,7 +99,7 @@ library.addEventListener(
 scoreBoard.addEventListener(
   "click",
   function () {
-    window.open("./LeaderBoard/index.html", "_blank");
+    window.open("../../pages/leaderBoard/index.html", "_blank");
   },
   false
 );
@@ -509,7 +509,7 @@ gomenu.addEventListener("click", () => {
   } else {
     user.classList.add("hide");
     startScreen.classList.remove("hide");
-    $("body").css("background-image" , "url('/assets/images/arkaplan.png')");
+    $("body").css("background-image" , "url('../../assets/images/arkaplan.png')");
   }
 });
 
