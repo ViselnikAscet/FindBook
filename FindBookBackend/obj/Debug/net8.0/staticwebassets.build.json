@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y4biSL3LvuF2FBxjH8hBjHMJzpShkbZumUuebXWD7DI=",
+  "Hash": "IBg8BZlxfeYB0ZxoFqJxe5XwJOI3HuEO4EJOCLOTWDM=",
   "Source": "FindBookBackend",
   "BasePath": "_content/FindBookBackend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FindBookBackend/wwwroot",
       "Source": "FindBookBackend",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/FindBookBackend.styles.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/FindBookBackend.styles.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "FindBookBackend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/FindBookBackend.styles.css"
+      "OriginalItemSpec": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/bundle/FindBookBackend.styles.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "FindBookBackend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css"
+      "OriginalItemSpec": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/bronze.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/bronze.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/awards/bronze.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/assets/awards/bronze.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/gold.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/gold.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/awards/gold.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/assets/awards/gold.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/silver.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/silver.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/awards/silver.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/assets/awards/silver.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/fonts/TOYZ.ttf",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/fonts/TOYZ.ttf",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/fonts/TOYZ.ttf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/TOYZ.ttf"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/arkaplan.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/arkaplan.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/images/arkaplan.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/arkaplan.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/cocuk.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/cocuk.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/images/cocuk.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/cocuk.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/images/minimal-book-pointer.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/minimal-book-pointer.png"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/webSiteIcon.ico",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/webSiteIcon.ico",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/images/webSiteIcon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/assets/images/webSiteIcon.ico"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/CocukKarisik.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/CocukKarisik.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/AuthorAndTitles/CocukKarisik.json",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/AuthorAndTitles/CocukKarisik.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/library.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/library.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/AuthorAndTitles/library.json",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/AuthorAndTitles/library.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYabancı.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYabancı.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/AuthorAndTitles/RomanYabancı.json",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/AuthorAndTitles/RomanYabancı.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYerli.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYerli.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/AuthorAndTitles/RomanYerli.json",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/AuthorAndTitles/RomanYerli.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/Data.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/Data.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/Data.json",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/Data.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/ChildQuizData.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/ChildQuizData.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/QuizData/ChildQuizData.json",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/QuizData/ChildQuizData.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYabancıQuiz.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYabancıQuiz.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/QuizData/RomanYabancıQuiz.json",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/QuizData/RomanYabancıQuiz.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYerliQuiz.json",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYerliQuiz.json",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "assets/Json/QuizData/RomanYerliQuiz.json",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/assets/Json/QuizData/RomanYerliQuiz.json"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/admin/style.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/admin/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/admin/style.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/css/admin/style.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/home/style.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/home/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/home/style.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/css/home/style.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/leaderBoard/style.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/leaderBoard/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/leaderBoard/style.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/css/leaderBoard/style.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/lib/FontAwsesome/style.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/lib/FontAwsesome/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/lib/FontAwsesome/style.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/css/lib/FontAwsesome/style.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/lib/Notflix/notiflix-3.2.6.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/lib/Notflix/notiflix-3.2.6.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/lib/Notflix/notiflix-3.2.6.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/css/lib/Notflix/notiflix-3.2.6.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/library/Notflix/notiflix-3.2.6.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/library/Notflix/notiflix-3.2.6.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/library/Notflix/notiflix-3.2.6.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/css/library/Notflix/notiflix-3.2.6.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/library/style.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/library/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "css/library/style.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/css/library/style.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/favicon.ico",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/favicon.ico",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/admin/scripts.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/scripts.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/admin/scripts.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/js/admin/scripts.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/firebase.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/firebase.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/home/firebase.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/js/home/firebase.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/script.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/script.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/home/script.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/js/home/script.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/script2.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/script2.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/home/script2.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/js/home/script2.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/leaderBoard/script.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/leaderBoard/script.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/leaderBoard/script.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/js/leaderBoard/script.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/library/script.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/library/script.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/library/script.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/js/library/script.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/site.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/site.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Angular/angular.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Angular/angular.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Angular/angular.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/Angular/angular.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-app-compat.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-app-compat.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Firebase/firebase-app-compat.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/lib/Firebase/firebase-app-compat.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-auth-compat.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-auth-compat.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Firebase/firebase-auth-compat.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/lib/Firebase/firebase-auth-compat.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-database-compat.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-database-compat.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Firebase/firebase-database-compat.js",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/lib/Firebase/firebase-database-compat.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-firestore-compat.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-firestore-compat.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Firebase/firebase-firestore-compat.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/lib/Firebase/firebase-firestore-compat.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-3.2.6.min.js",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-aio-3.2.6.min.js",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-aio-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-block-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-block-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-block-aio-3.2.6.min.js",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-block-aio-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-confirm-aio-3.2.6.min.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-loading-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-loading-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-loading-aio-3.2.6.min.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-loading-aio-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-notify-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-notify-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-notify-aio-3.2.6.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-notify-aio-3.2.6.min.js"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-report-aio-3.2.6.min.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-report-aio-3.2.6.min.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
       "RelativePath": "lib/Notflix/notiflix-report-aio-3.2.6.min.js",
       "AssetKind": "All",

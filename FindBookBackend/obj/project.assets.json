@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/FindBookBackend.csproj",
+      "projectUniqueName": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/FindBookBackend.csproj",
       "projectName": "FindBookBackend",
-      "projectPath": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/FindBookBackend.csproj",
+      "projectPath": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/FindBookBackend.csproj",
       "packagesPath": "/Users/muhammedrizakaynak/.nuget/packages/",
-      "outputPath": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/",
+      "outputPath": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muhammedrizakaynak/.nuget/NuGet/NuGet.Config"

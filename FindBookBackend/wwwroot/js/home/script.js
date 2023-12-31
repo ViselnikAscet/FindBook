@@ -39,6 +39,7 @@ var switchBtnLeft = document.querySelector(".switch-button-case.left");
 var activeSwitch = document.querySelector(".active");
 var isClickedOne = false;
 var isClickedTwo = false;
+var clickedCountScore =0;
 //
 
 var switchButton2 = document.querySelector(".switch-button2");
@@ -418,11 +419,52 @@ function quizCreator() {
 let correctOption;
 function checker(userOption) {
   let userSolution = userOption.innerText;
-  let question =
-    document.getElementsByClassName("container_mid")[questionCount];
+  let question = document.getElementsByClassName("container_mid")[questionCount];
   let options = question.querySelectorAll(".option-div");
-  //if user's clicked anaswer==correct option stored in object
-  if (userSolution === quizArray[questionCount].correct) {
+
+  if(isClickedTwo===true && clickedCountScore != 1){
+    if (userSolution === quizArray[questionCount].correct) {
+      correctOption = quizArray[questionCount].correct;
+      userOption.classList.add("correct");
+      scoreCount++;
+    } else {
+      //red background
+      userOption.classList.add("inCorrect");
+        document.getElementById("heart1").classList.add("shaking");
+        document.getElementById("heart2").classList.add("shaking");
+        document.getElementById("heart3").classList.add("shaking");
+
+        setTimeout(function () {
+          const newScore = {
+            username: adSoyadInput.value,
+            score: score
+          };
+
+          scoresRef
+            .push(newScore)
+            .then(() => {
+              console.log("Skor başarıyla eklendi!");
+            })
+            .catch((error) => {
+              console.error("Skor eklenirken hata oluştu:", error);
+            });
+          userScore.innerHTML =
+            "Senin skorun " + questionCount + " soruda " + score + " puan";
+          wrong = 3;
+          score = 0;
+        }, 400);
+        isClickedTwo=1;
+      }
+      //for marking green(correct)
+      
+    
+    //clear interval(stop timer)
+    //disabled all options
+    
+    }
+    
+  else{
+    if (userSolution === quizArray[questionCount].correct) {
     correctOption = quizArray[questionCount].correct;
     userOption.classList.add("correct");
     scoreCount++;
@@ -475,6 +517,8 @@ function checker(userOption) {
   options.forEach((element) => {
     element.disabled = true;
   });
+  }
+  
 }
 //initial setup
 function inital() {

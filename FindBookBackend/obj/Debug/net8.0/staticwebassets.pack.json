@@ -1,407 +1,407 @@
 {
   "Files": [
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css",
       "PackagePath": "staticwebassets/FindBookBackend.bundle.scp.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/CocukKarisik.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/CocukKarisik.json",
       "PackagePath": "staticwebassets/assets/Json/AuthorAndTitles/CocukKarisik.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYabancı.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYabancı.json",
       "PackagePath": "staticwebassets/assets/Json/AuthorAndTitles/RomanYabancı.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYerli.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/RomanYerli.json",
       "PackagePath": "staticwebassets/assets/Json/AuthorAndTitles/RomanYerli.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/library.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/AuthorAndTitles/library.json",
       "PackagePath": "staticwebassets/assets/Json/AuthorAndTitles/library.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/Data.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/Data.json",
       "PackagePath": "staticwebassets/assets/Json/Data.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/ChildQuizData.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/ChildQuizData.json",
       "PackagePath": "staticwebassets/assets/Json/QuizData/ChildQuizData.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYabancıQuiz.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYabancıQuiz.json",
       "PackagePath": "staticwebassets/assets/Json/QuizData/RomanYabancıQuiz.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYerliQuiz.json",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/Json/QuizData/RomanYerliQuiz.json",
       "PackagePath": "staticwebassets/assets/Json/QuizData/RomanYerliQuiz.json"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/bronze.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/bronze.png",
       "PackagePath": "staticwebassets/assets/awards/bronze.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/gold.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/gold.png",
       "PackagePath": "staticwebassets/assets/awards/gold.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/awards/silver.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/silver.png",
       "PackagePath": "staticwebassets/assets/awards/silver.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/fonts/TOYZ.ttf",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/fonts/TOYZ.ttf",
       "PackagePath": "staticwebassets/assets/fonts/TOYZ.ttf"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/arkaplan.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/arkaplan.png",
       "PackagePath": "staticwebassets/assets/images/arkaplan.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/cocuk.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/cocuk.png",
       "PackagePath": "staticwebassets/assets/images/cocuk.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
       "PackagePath": "staticwebassets/assets/images/minimal-book-pointer.png"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/assets/images/webSiteIcon.ico",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/webSiteIcon.ico",
       "PackagePath": "staticwebassets/assets/images/webSiteIcon.ico"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/admin/style.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/admin/style.css",
       "PackagePath": "staticwebassets/css/admin/style.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/home/style.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/home/style.css",
       "PackagePath": "staticwebassets/css/home/style.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/leaderBoard/style.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/leaderBoard/style.css",
       "PackagePath": "staticwebassets/css/leaderBoard/style.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/lib/FontAwsesome/style.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/lib/FontAwsesome/style.css",
       "PackagePath": "staticwebassets/css/lib/FontAwsesome/style.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/lib/Notflix/notiflix-3.2.6.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/lib/Notflix/notiflix-3.2.6.min.css",
       "PackagePath": "staticwebassets/css/lib/Notflix/notiflix-3.2.6.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/library/Notflix/notiflix-3.2.6.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/library/Notflix/notiflix-3.2.6.min.css",
       "PackagePath": "staticwebassets/css/library/Notflix/notiflix-3.2.6.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/css/library/style.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/library/style.css",
       "PackagePath": "staticwebassets/css/library/style.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/favicon.ico",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/admin/scripts.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/scripts.js",
       "PackagePath": "staticwebassets/js/admin/scripts.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/firebase.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/firebase.js",
       "PackagePath": "staticwebassets/js/home/firebase.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/script.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/script.js",
       "PackagePath": "staticwebassets/js/home/script.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/home/script2.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/script2.js",
       "PackagePath": "staticwebassets/js/home/script2.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/leaderBoard/script.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/leaderBoard/script.js",
       "PackagePath": "staticwebassets/js/leaderBoard/script.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/library/script.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/library/script.js",
       "PackagePath": "staticwebassets/js/library/script.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/js/site.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Angular/angular.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Angular/angular.min.js",
       "PackagePath": "staticwebassets/lib/Angular/angular.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-app-compat.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-app-compat.js",
       "PackagePath": "staticwebassets/lib/Firebase/firebase-app-compat.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-auth-compat.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-auth-compat.js",
       "PackagePath": "staticwebassets/lib/Firebase/firebase-auth-compat.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-database-compat.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-database-compat.js",
       "PackagePath": "staticwebassets/lib/Firebase/firebase-database-compat.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Firebase/firebase-firestore-compat.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Firebase/firebase-firestore-compat.js",
       "PackagePath": "staticwebassets/lib/Firebase/firebase-firestore-compat.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-block-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-block-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-block-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-confirm-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-loading-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-loading-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-loading-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-notify-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-notify-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-notify-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/Notflix/notiflix-report-aio-3.2.6.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/Notflix/notiflix-report-aio-3.2.6.min.js",
       "PackagePath": "staticwebassets/lib/Notflix/notiflix-report-aio-3.2.6.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {

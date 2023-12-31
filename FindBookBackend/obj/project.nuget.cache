@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JnW3jY9qHK+PYZ/4M570InB/+7aovouMwGAFsTP7YjaVq2tSYuZFNeX3+Ft9GamOwzueWk16qWRGvu9FAzj/cQ==",
+  "dgSpecHash": "UuEu7d0wjMFyi4pe4AO30mmnjdoMSt9ckyTEiu3JoUhw3qvIHnexq7NfyyysxcMDfvAAIHhN5/HxQIBHKnmbsg==",
   "success": true,
-  "projectFilePath": "/Users/muhammedrizakaynak/Desktop/Project/FindBookBackend/FindBookBackend.csproj",
+  "projectFilePath": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/FindBookBackend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
