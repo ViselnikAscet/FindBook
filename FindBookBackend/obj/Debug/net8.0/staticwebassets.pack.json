@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/assets/Json/QuizData/RomanYerliQuiz.json"
     },
     {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/audio/champions.mp3",
+      "PackagePath": "staticwebassets/assets/audio/champions.mp3"
+    },
+    {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/bronze.png",
       "PackagePath": "staticwebassets/assets/awards/bronze.png"
     },
@@ -61,6 +65,14 @@
       "PackagePath": "staticwebassets/assets/images/cocuk.png"
     },
     {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/githubIcon.png",
+      "PackagePath": "staticwebassets/assets/images/githubIcon.png"
+    },
+    {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/googlebooks.png",
+      "PackagePath": "staticwebassets/assets/images/googlebooks.png"
+    },
+    {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
       "PackagePath": "staticwebassets/assets/images/minimal-book-pointer.png"
     },
@@ -71,6 +83,10 @@
     {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/admin/style.css",
       "PackagePath": "staticwebassets/css/admin/style.css"
+    },
+    {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/books/style.css",
+      "PackagePath": "staticwebassets/css/books/style.css"
     },
     {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/home/style.css",
@@ -103,6 +119,10 @@
     {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/scripts.js",
       "PackagePath": "staticwebassets/js/admin/scripts.js"
+    },
+    {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/books/script.js",
+      "PackagePath": "staticwebassets/js/books/script.js"
     },
     {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/firebase.js",
@@ -403,6 +423,10 @@
     {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FindBookBackend.Microsoft.AspNetCore.StaticWebAssets.props",

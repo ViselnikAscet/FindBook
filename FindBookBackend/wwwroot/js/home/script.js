@@ -40,7 +40,8 @@ var activeSwitch = document.querySelector(".active");
 var isClickedOne = false;
 var isClickedTwo = false;
 var clickedCountScore =0;
-//
+var audio = document.getElementById("myAudio");
+
 
 var switchButton2 = document.querySelector(".switch-button2");
 var switchBtnRight2 = document.querySelector(".switch-button-case2.right2");
@@ -104,6 +105,7 @@ scoreBoard.addEventListener(
   },
   false
 );
+
 
 switchBtnLeft2.addEventListener(
   "click",
@@ -287,7 +289,7 @@ nextBtn.addEventListener(
       //hide question container and display score
       wrapper.classList.add("hide");
       scoreContainer.classList.remove("hide");
-      score = scoreCount * 10;
+      score = scoreCount * 10 + count;
       // user score
       const newScore = {
         username: adSoyadInput.value,
@@ -307,7 +309,7 @@ nextBtn.addEventListener(
       score = 0;
     } else {
       //display questionCount
-      score = scoreCount * 10;
+      score = scoreCount * 10 + count;
       countOfQuestion.innerHTML = questionCount + ". Soru";
       scoreGoster.innerHTML = "Puan: " + score;
       score = 0;
@@ -351,8 +353,9 @@ const timerDisplay = () => {
 
         setTimeout(function () {
           wrapper.classList.add("hide");
-          score = scoreCount * 10;
+          score = scoreCount * 10+ count;
           scoreContainer.classList.remove("hide");
+          scoreChecker();
           const newScore = {
             username: adSoyadInput.value,
             score: score
@@ -467,59 +470,129 @@ function checker(userOption) {
     if (userSolution === quizArray[questionCount].correct) {
     correctOption = quizArray[questionCount].correct;
     userOption.classList.add("correct");
-    scoreCount++;
-  } else {
-    //red background
-    userOption.classList.add("inCorrect");
-    wrong = wrong - 1;
-    if (wrong == 2) {
-      heart1.className = heartempty;
-      document.getElementById("heart1").classList.add("shaking");
-    } else if (wrong == 1) {
-      heart2.className = heartempty;
-      document.getElementById("heart2").classList.add("shaking");
-    } else if (wrong == 0) {
-      heart3.className = heartempty;
-      document.getElementById("heart3").classList.add("shaking");
-
-      setTimeout(function () {
-        wrapper.classList.add("hide");
-        score = scoreCount * 10;
-        scoreContainer.classList.remove("hide");
-        const newScore = {
-          username: adSoyadInput.value,
-          score: score
-        };
-        scoresRef
-          .push(newScore)
-          .then(() => {
-            console.log("Skor başarıyla eklendi!");
-          })
-          .catch((error) => {
-            console.error("Skor eklenirken hata oluştu:", error);
-          });
-        userScore.innerHTML =
-          "Senin skorun " + questionCount + " soruda " + score + " puan";
-        wrong = 3;
-        score = 0;
-      }, 400);
-    }
-    //for marking green(correct)
-    options.forEach((element) => {
-      if (element.innerText == quizArray[questionCount].correct) {
-        element.classList.add("correct");
+    scoreCount+=100;
+    } 
+    else {
+      //red background
+      userOption.classList.add("inCorrect");
+      wrong = wrong - 1;
+      if (wrong == 2) {
+        heart1.className = heartempty;
+        document.getElementById("heart1").classList.add("shaking");
+      } else if (wrong == 1) {
+        heart2.className = heartempty;
+        document.getElementById("heart2").classList.add("shaking");
+      } else if (wrong == 0) {
+        heart3.className = heartempty;
+        document.getElementById("heart3").classList.add("shaking");
+  
+        setTimeout(function () {
+          wrapper.classList.add("hide");
+          score = scoreCount * 10 + count;
+          scoreContainer.classList.remove("hide");
+          scoreChecker();
+          const newScore = {
+            username: adSoyadInput.value,
+            score: score
+          };
+          scoresRef
+            .push(newScore)
+            .then(() => {
+              console.log("Skor başarıyla eklendi!");
+            })
+            .catch((error) => {
+              console.error("Skor eklenirken hata oluştu:", error);
+            });
+          userScore.innerHTML =
+            "Senin skorun " + questionCount + " soruda " + score + " puan";
+          wrong = 3;
+          score = 0;
+        }, 400);
       }
+      //for marking green(correct)
+      options.forEach((element) => {
+        if (element.innerText == quizArray[questionCount].correct) {
+          element.classList.add("correct");
+        }
+      });
+    }
+    //clear interval(stop timer)
+    clearInterval(countdown);
+    //disabled all options
+    options.forEach((element) => {
+      element.disabled = true;
+    });
+    }
+};
+
+function playAudio() {
+  audio.play();
+}
+
+
+function newScoreEffect(){
+  const duration = 60 * 60 * 1000,
+	animationEnd = Date.now() + duration,
+	defaults = { startVelocity: 30, spread: 360, ticks: 20, zIndex: 0 };
+
+function randomInRange(min, max) {
+	return Math.random() * (max - min) + min;
+}
+
+const interval = setInterval(function () {
+	const timeLeft = animationEnd - Date.now();
+
+	if (timeLeft <= 0) {
+		return clearInterval(interval);
+	}
+
+	const particleCount = 20 * (timeLeft / duration);
+
+	// since particles fall down, start a bit higher than random
+	confetti(
+		Object.assign({}, defaults, {
+			particleCount,
+			origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 }
+		})
+	);
+	confetti(
+		Object.assign({}, defaults, {
+			particleCount,
+			origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 }
+		})
+	);
+}, 250);
+}
+
+  function scoreChecker() {
+    scoresRef.once('value')
+  .then(function(snapshot) {
+    var scoresObj = snapshot.val();
+    var scoresArray = [];
+
+    // Objeyi diziye dönüştürme
+    for (var key in scoresObj) {
+      if (scoresObj.hasOwnProperty(key)) {
+        scoresArray.push(scoresObj[key]);
+      }
+    }
+
+    // Diziyi skor değerine göre sıralama
+    scoresArray.sort(function(a, b) {
+      return b.score - a.score;
+    });
+    console.log(scoresArray[0]);
+    if(score > scoresArray[0].score){
+      newScoreEffect();
+     playAudio();  
+    }
+    })
+
+    .catch(function(error) {
+      console.error('Veri okunurken hata oluştu:', error);
     });
   }
-  //clear interval(stop timer)
-  clearInterval(countdown);
-  //disabled all options
-  options.forEach((element) => {
-    element.disabled = true;
-  });
-  }
-  
-}
+
 //initial setup
 function inital() {
   cocukimg();
@@ -554,6 +627,8 @@ gomenu.addEventListener("click", () => {
     user.classList.add("hide");
     startScreen.classList.remove("hide");
     $("body").css("background-image" , "url('../../assets/images/arkaplan.png')");
+    $("body").css("background-size", "cover");
+    $("body").css("background-repeat", "no-repeat");
   }
 });
 
@@ -632,3 +707,4 @@ backgroundColor: 'rgba(0,0,0,0.8)',
 });
 
 Notiflix.Loading.remove(2000);
+

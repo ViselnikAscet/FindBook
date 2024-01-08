@@ -23,7 +23,8 @@
 
 </head>
 <body>
-	
+<audio id="myAudio" src="~/assets/audio/champions.mp3"></audio>
+
 <div id="user-info">
 <center>
 	<div id="info">
@@ -37,7 +38,8 @@
 <div class="start-screen">
 	<h2>HAZIR MISIN?</h2>
 	<div class="switch-button"><span class="active"></span>
-		<button class="switch-button-case left active-case">Yerli</button>
+		<button class="switch-button-case left active-case">Yerli</button>		
+		<img src="~/assets/images/googlebooks.png" onclick="window.location.href='/Home/DirectBook'" alt="" id="googlebooks">
 		<button class="switch-button-case middle">Yabancı</button>
     	<button class="switch-button-case right">Karışık</button>
 	  </div>
@@ -52,7 +54,8 @@
 		<button class="main-button smaller" onclick="window.location.href='/Scoreboard/Index'" id="go-scoreboard">Skor Tablosu</button>
 		<button class="main-button larger" id="start-button">Başla</button>
 		<button class="main-button smaller" onclick="window.location.href='/Library/Index'" id="go-library">Kütüphane</button>
-	</div>
+	</div>		
+		<img src="~/assets/images/githubIcon.png" onclick="window.location.href='/Home/DirectGithub'" alt="" id="github">
 
 </div>
 
@@ -122,6 +125,7 @@
 
   <script src="~/js/home/script.js"></script>
   <script type="module" src="~/js/home/firebase.js"></script>
+  <script src='~/lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js'></script>
 
 
   <img src="~/assets/images/cocuk.png"  alt="cocuk" id="cocuk">;

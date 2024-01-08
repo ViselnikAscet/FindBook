@@ -16,7 +16,10 @@
 }
 body {
 	background-color: #0a69ed;
+	width: 100%;
+	
 }
+
 .start-screen,
 .score-container {
 	position: absolute;
@@ -591,3 +594,21 @@ i.fab {
 	left: 50%;
 	transform: translateX(-50%);
   }
+
+
+  #github{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 8%;
+	height: auto;
+  }
+
+  #googlebooks{
+	position: absolute;
+	margin-top: 40px;
+	right: 80%;
+	width: 25%;
+	height: auto;
+  }
+

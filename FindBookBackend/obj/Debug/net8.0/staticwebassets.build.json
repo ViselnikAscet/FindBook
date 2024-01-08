@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IBg8BZlxfeYB0ZxoFqJxe5XwJOI3HuEO4EJOCLOTWDM=",
+  "Hash": "zqIBZbsjp0ssWom4eGC2K8m5sSZ/tpPVwLGcFs7bsxg=",
   "Source": "FindBookBackend",
   "BasePath": "_content/FindBookBackend",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/scopedcss/projectbundle/FindBookBackend.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/audio/champions.mp3",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "assets/audio/champions.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/audio/champions.mp3"
     },
     {
       "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/awards/bronze.png",
@@ -167,6 +186,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/images/cocuk.png"
+    },
+    {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/githubIcon.png",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "assets/images/githubIcon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/githubIcon.png"
+    },
+    {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/googlebooks.png",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "assets/images/googlebooks.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/googlebooks.png"
     },
     {
       "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/assets/images/minimal-book-pointer.png",
@@ -378,6 +435,25 @@
       "OriginalItemSpec": "wwwroot/css/admin/style.css"
     },
     {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/books/style.css",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "css/books/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/books/style.css"
+    },
+    {
       "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/css/home/style.css",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
@@ -528,6 +604,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/admin/scripts.js"
+    },
+    {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/books/script.js",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "js/books/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/books/script.js"
     },
     {
       "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/home/firebase.js",
@@ -1953,6 +2048,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/Notflix/notiflix-report-aio-3.2.6.min.js"
+    },
+    {
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js",
+      "SourceId": "FindBookBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
+      "BasePath": "_content/FindBookBackend",
+      "RelativePath": "lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/tsparticles.confetti/tsparticles.confetti.bundle.min.js"
     }
   ]
 }

@@ -1,0 +1,89 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Poppins", sans-serif;
+	-webkit-tap-highlight-color: transparent;
+
+}
+body {
+	background-color: #0a69ed;
+	width: 100%;
+		cursor: url('../../assets/images/minimal-book-pointer.png'), auto;
+
+}
+#info {
+	position: relative;
+	background-color: #ffffff;
+	padding: 3.1em 1.8em;
+	width: 30%;
+	margin: 320px 160px 150px 160px;
+	border-radius: 0.6em;
+	box-shadow: 0 20px 45px rgba(0, 24, 56, 0.15);
+  }
+  input {
+	width: 70%;
+	padding: 10px;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	transition: border-color 0.3s ease;
+	border-radius: 5px;
+    float: left;
+  }
+
+  input:required {
+	border: 2px solid #e74c3c;
+  }
+
+  input:required:focus {
+	border-color: #27ae60;
+	outline: none;
+  }
+
+  /* Yeşil renkli içeriği dolu input alanları için stil */
+  input:not(:placeholder-shown) {
+	border-color: #27ae60;
+  }
+  #go-menu {
+	font-size: 1.3em;
+	margin-top: 5px;
+	padding: 0.5em 1.8em;
+	border-radius: 0.2em;
+	color: white;
+	background-color: #0a69ed;
+    width: 100%;
+    height: auto;
+    
+
+  }
+  
+  #go-menu:hover {
+	background-position: 0% 100%; /* Hover durumunda gradientin yönünü tersine çevir */
+  }
+  
+
+  #sorgula {
+    font-size: 1em;
+	margin-bottom: 10px;
+	padding: 0.5em 1.8em;
+	border-radius: 0.2em;
+	color: white;
+	background-color: #0a69ed;
+    width: 25%;
+    height: auto;
+    clear: both;
+
+    }
+    
+    #sorgula:hover {
+    background-position: 0% 100%; /* Hover durumunda gradientin yönünü tersine çevir */
+    }
+
+    a {
+        color: #000000;
+    }
+
+    a:hover {
+        cursor: pointer;
+
+}

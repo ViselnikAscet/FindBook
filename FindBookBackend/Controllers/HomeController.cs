@@ -18,6 +18,20 @@ public class HomeController : Controller
         return View();
     }
 
+    //opened my github profile page
+    public ActionResult DirectGithub()
+    {
+        // İlgili sayfaya yönlendirme işlemi
+        return Redirect("https://github.com/ViselnikAscet");
+    }
+    
+      public ActionResult DirectBook()
+    {
+        // İlgili sayfaya yönlendirme işlemi
+        return View("Books");
+    }
+
+
     public ActionResult DirectLib()
     {
         // İlgili sayfaya yönlendirme işlemi
