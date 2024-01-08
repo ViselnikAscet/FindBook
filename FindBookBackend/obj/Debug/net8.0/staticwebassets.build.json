@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zqIBZbsjp0ssWom4eGC2K8m5sSZ/tpPVwLGcFs7bsxg=",
+  "Hash": "ElkJXySa7tanKgrOiSFDL/59EtJ4YoIEZofvYghuuig=",
   "Source": "FindBookBackend",
   "BasePath": "_content/FindBookBackend",
   "Mode": "Default",
@@ -587,12 +587,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/scripts.js",
+      "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/script.js",
       "SourceId": "FindBookBackend",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/",
       "BasePath": "_content/FindBookBackend",
-      "RelativePath": "js/admin/scripts.js",
+      "RelativePath": "js/admin/script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,7 +603,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/admin/scripts.js"
+      "OriginalItemSpec": "wwwroot/js/admin/script.js"
     },
     {
       "Identity": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/books/script.js",

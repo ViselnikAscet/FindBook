@@ -1,9 +1,6 @@
-// AngularJS uygulamasını başlatma
 var app = angular.module('myApp', []);
 
-// Firebase'den veri almak için controller
 app.controller('AdminController', function($scope ,$http,$window) {
-
     const firebaseConfig = {
         apiKey: "AIzaSyCP4n6vjz7c46N47aRft0-J4LyVPvUSui8",
         authDomain: "findbook-23e68.firebaseapp.com",
@@ -21,7 +18,7 @@ app.controller('AdminController', function($scope ,$http,$window) {
 
     // Veritabanı referansı alınması
     $scope.login = function() {
-        var email = $scope.email;
+        var username = $scope.username;
         var password = $scope.password;
 
         // Kullanıcı bilgilerini Firebase Realtime Database'den kontrol etme
@@ -31,8 +28,8 @@ app.controller('AdminController', function($scope ,$http,$window) {
             var userInfo = snapshot.val();
             var user = userInfo.mert; // Kullanıcı adı "mert" örneği
 
-            if (user.email === email && user.password === password) {
-                $window.location.href = '../../pages/admin/admin.html';              // Başarılı giriş, istediğiniz işlemleri yapabilirsiniz (örneğin yönlendirme)
+            if (user.email === username && user.password === password) {
+              window.location.href='/Admin/Admin'
             } else {
               console.log('Giriş başarısız. Kullanıcı adı veya şifre hatalı.');
               // Hatalı giriş durumunda kullanıcıya bildirim gösterebilirsiniz

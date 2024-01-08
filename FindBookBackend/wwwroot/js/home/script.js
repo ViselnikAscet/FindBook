@@ -251,7 +251,6 @@ function fetchData() {
   }
 }
 function cocukimg() {
-  // Check if the element with ID "wrapper" has the class "hide"
   if (wrapper.classList.contains("hide")) {
     // The element has the class "hide"
       $("#cocuk").css("display" , "none");
@@ -262,6 +261,8 @@ function cocukimg() {
 
 // restart game
 restart.addEventListener("click", () => {
+  audio.pause();
+  score = 0;
   resetCardState(); // Reset the card state
   inital(); //call initial function
   wrapper.classList.remove("hide");
@@ -283,7 +284,7 @@ nextBtn.addEventListener(
     myBar.offsetHeight;
     myBar.style.animation = null;
     //increment questionCount
-    questionCount += 1;
+    questionCount ++;
     //if last question
     if (questionCount == quizArray.length) {
       //hide question container and display score
@@ -355,7 +356,7 @@ const timerDisplay = () => {
           wrapper.classList.add("hide");
           score = scoreCount * 10;
           scoreContainer.classList.remove("hide");
-          scoreChecker();
+          scoreChecker(score);
           const newScore = {
             username: adSoyadInput.value,
             score: score
@@ -464,7 +465,15 @@ function checker(userOption) {
     if (userSolution === quizArray[questionCount].correct) {
     correctOption = quizArray[questionCount].correct;
     userOption.classList.add("correct");
-    scoreCount++;
+    if (count > 8) {
+      scoreCount = scoreCount + 2;
+    }
+    else if (count > 5) {
+      scoreCount = scoreCount + 1.5;
+    }
+    else {
+      scoreCount++;
+    }
     } 
     else {
       //red background
@@ -484,7 +493,7 @@ function checker(userOption) {
           wrapper.classList.add("hide");
           score = scoreCount * 10;
           scoreContainer.classList.remove("hide");
-          scoreChecker();
+          scoreChecker(score);
           const newScore = {
             username: adSoyadInput.value,
             score: score
@@ -499,8 +508,6 @@ function checker(userOption) {
             });
           userScore.innerHTML =
             "Senin skorun " + questionCount + " soruda " + score + " puan";
-          wrong = 3;
-          score = 0;
         }, 400);
       }
       //for marking green(correct)
@@ -558,7 +565,7 @@ const interval = setInterval(function () {
 }, 250);
 }
 
-  function scoreChecker() {
+  function scoreChecker(userScore) {
     scoresRef.once('value')
   .then(function(snapshot) {
     var scoresObj = snapshot.val();
@@ -576,9 +583,11 @@ const interval = setInterval(function () {
       return b.score - a.score;
     });
     console.log(scoresArray[0]);
-    if(score > scoresArray[0].score){
+    if(userScore > scoresArray[1].score){
+      userScore.innerHTML =
+            "TEBRİKLER " + questionCount + " SORUDA " + score + " PUAN YAPARAK EN YÜKSEK SKORU ELDE ETTİNİZ!";
       newScoreEffect();
-     playAudio();  
+      playAudio();  
     }
     })
 
@@ -589,6 +598,8 @@ const interval = setInterval(function () {
 
 //initial setup
 function inital() {
+  score = 0;
+  scoreGoster.innerHTML = "Puan: " + score;
   cocukimg();
   quizContainer.innerHTML = "";
   wrong = 3;
@@ -604,7 +615,6 @@ function inital() {
   heart3.className = heartfull;
   var isClickedOne = false;
   var isClickedTwo = false;
-  score = 0;
 }
 // when user click on start button
 startButton.addEventListener("click", () => {

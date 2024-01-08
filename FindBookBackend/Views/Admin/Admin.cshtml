@@ -5,14 +5,15 @@
 	
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="myApp">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Panel</title>
+        <script src="~/lib/Angular/angular.min.js"></script>
   <link rel="stylesheet" href="~/css/admin/style.css" asp-append-version="true" />
 </head>
-<body>
+<body ng-controller="AdminController">
     <div class="form">
         <center>
             <div class="info">
@@ -26,10 +27,18 @@
                 <br>
                 <input type="text" id="" placeholder="Doğru Cevap" required>
             </div>
+                <button ng-click="clear()">DATABASE TEMİZLE</button>
+
             <button id="kaydet">Kaydet</button>
             <h4 id="uyari"></h4>
         </center>
 
     </div>
+     <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-database-compat.js"></script>
+    <script src="~/js/admin/admin.js"></script>
+
 </body>
 </html>
