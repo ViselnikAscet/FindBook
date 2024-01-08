@@ -289,7 +289,7 @@ nextBtn.addEventListener(
       //hide question container and display score
       wrapper.classList.add("hide");
       scoreContainer.classList.remove("hide");
-      score = scoreCount * 10 + count;
+      score = scoreCount * 10;
       // user score
       const newScore = {
         username: adSoyadInput.value,
@@ -309,7 +309,7 @@ nextBtn.addEventListener(
       score = 0;
     } else {
       //display questionCount
-      score = scoreCount * 10 + count;
+      score = scoreCount * 10;
       countOfQuestion.innerHTML = questionCount + ". Soru";
       scoreGoster.innerHTML = "Puan: " + score;
       score = 0;
@@ -353,7 +353,7 @@ const timerDisplay = () => {
 
         setTimeout(function () {
           wrapper.classList.add("hide");
-          score = scoreCount * 10+ count;
+          score = scoreCount * 10;
           scoreContainer.classList.remove("hide");
           scoreChecker();
           const newScore = {
@@ -458,19 +458,13 @@ function checker(userOption) {
         }, 400);
         isClickedTwo=1;
       }
-      //for marking green(correct)
-      
-    
-    //clear interval(stop timer)
-    //disabled all options
-    
     }
     
   else{
     if (userSolution === quizArray[questionCount].correct) {
     correctOption = quizArray[questionCount].correct;
     userOption.classList.add("correct");
-    scoreCount+=100;
+    scoreCount++;
     } 
     else {
       //red background
@@ -488,7 +482,7 @@ function checker(userOption) {
   
         setTimeout(function () {
           wrapper.classList.add("hide");
-          score = scoreCount * 10 + count;
+          score = scoreCount * 10;
           scoreContainer.classList.remove("hide");
           scoreChecker();
           const newScore = {
