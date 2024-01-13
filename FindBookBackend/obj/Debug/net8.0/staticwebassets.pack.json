@@ -117,6 +117,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/admin.js",
+      "PackagePath": "staticwebassets/js/admin/admin.js"
+    },
+    {
       "Id": "/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/wwwroot/js/admin/script.js",
       "PackagePath": "staticwebassets/js/admin/script.js"
     },

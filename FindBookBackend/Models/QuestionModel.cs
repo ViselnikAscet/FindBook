@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace FindBookBackend.Models
 {
-    public class Question
+    public class QuestionModel
     {
         public string Id { get; set; }
         public string QuestionText { get; set; }

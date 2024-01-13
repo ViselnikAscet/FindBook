@@ -59,3 +59,12 @@
 /Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/FindBookBackend.pdb
 /Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/FindBookBackend.genruntimeconfig.cache
 /Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/ref/FindBookBackend.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/FireSharp.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/Microsoft.Threading.Tasks.Extensions.Desktop.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/Microsoft.Threading.Tasks.Extensions.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/Microsoft.Threading.Tasks.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/System.Net.Http.Extensions.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/System.Net.Http.Primitives.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/FindBookBackend.csproj.AssemblyReference.cache
+/Users/muhammedrizakaynak/Desktop/Project/FindBook/FindBookBackend/obj/Debug/net8.0/FindBookBackend.csproj.CopyComplete
