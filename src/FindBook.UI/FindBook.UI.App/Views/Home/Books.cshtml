@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+	
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Bil Bakalım Kim</title>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;display=swap'>
+  <link rel="icon" href="~/assets/images/webSiteIcon.ico">
+  <script src="~/lib/Jquery/jquery-3.6.4.min.js"></script>
+
+  	<script  src="~/lib/Notflix/notiflix-notify-aio-3.2.6.min.js"></script>
+	<link rel="stylesheet" href="../../styles/lib/Notflix/notiflix-3.2.6.min.css" />
+	<script  src="~/lib/Notflix/notiflix-3.2.6.min.js" ></script>
+	<script  src="~/lib/Notflix/notiflix-aio-3.2.6.min.js"></script>
+
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css'>
+	<link rel="stylesheet" href="~/css/books/style.css" asp-append-version="true" />
+
+
+</head>
+<body>
+	
+<div id="user-info">
+<center>
+	<div id="info">
+		<h3>Kitap Sorgulama</h3>
+		<input id="username" type="text" placeholder="Kitap Adı" required>
+		<button id="sorgula" onclick="searchBook()">Sorgula</button>
+        <div id="bookInfo"></div>
+        <button id="go-menu"  onclick="window.location.href='/Home/Index'">Menüye Dön</button>
+
+
+	</div>
+</center>
+</div>
+  <script src="~/js/books/script.js"></script>
+</body>
+</html>

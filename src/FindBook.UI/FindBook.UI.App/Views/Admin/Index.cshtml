@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <script src="~/lib/Angular/angular.min.js"></script>
+    <link rel="stylesheet" href="~/css/admin/style.css">
+</head>
+<body ng-controller="AdminController">
+<div class="info">
+    <div class="control">
+        <input type="text" ng-model="username" placeholder="Kullanıcı Adı" required>
+        <br>
+        <input type="password" ng-model="password" placeholder="Şifre" required>
+    </div>
+    <button ng-click="login()">Giriş Yap</button>
+    <h4>{{ uyari }}</h4>
+</div>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-database-compat.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.js"></script>
+
+<script src="~/js/admin/script.js"></script>
+</body>
+
+</html>
