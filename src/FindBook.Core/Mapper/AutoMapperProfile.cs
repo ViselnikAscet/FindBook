@@ -5,20 +5,13 @@ using FindBook.Core.Entity;
 using FindBook.Core.Models.Dto.Error;
 using FindBook.Core.Models.Dto.Language;
 using FindBook.Core.Models.Dto.LanguageBasedInfo;
-using FindBook.Core.Models.Dto.Perm;
-using FindBook.Core.Models.Dto.PermGroup;
-using FindBook.Core.Models.Dto.PermGroupPerm;
-using FindBook.Core.Models.Dto.Resource;
-using FindBook.Core.Models.Dto.SeoInfo;
 using FindBook.Core.Models.Dto.User;
-using FindBook.Core.Models.Dto.Setting;
 using AutoMapper;
 using FindBook.Core.Models.Dto.Announcement;
 using FindBook.Core.Models.Dto.Blog;
-using FindBook.Core.Models.Dto.MenuSection;
-using FindBook.Core.Models.Dto.MenuItem;
 using FindBook.Core.Models.Dto.Campaign;
 using FindBook.Core.Models.Dto.CampaignDetail;
+using FindBook.Core.Models.Dto.BookCategory;
 
 namespace FindBook.Core.Mapper
 {
@@ -42,8 +35,8 @@ namespace FindBook.Core.Mapper
 
 
             #region ProductCategory Mapping
-            CreateMap<ProductCategory, ProductCategoryDto>().ReverseMap();
-            CreateMap<ProductCategory, SimpleProductCategoryDto>().ReverseMap();
+            CreateMap<BooksCategory, BookCategoryDto>().ReverseMap();
+            CreateMap<BooksCategory, BookCategoryDto>().ReverseMap();
             #endregion
 
           

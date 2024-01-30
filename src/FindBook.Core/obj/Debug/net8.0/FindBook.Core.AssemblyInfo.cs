@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindBook.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cf16c4fcdc3b69d009e4f178e0ee591ace6d8fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindBook.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindBook.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

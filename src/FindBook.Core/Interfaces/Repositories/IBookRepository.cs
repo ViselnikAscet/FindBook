@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using FindBook.Core.Entity;
 using FindBook.Core.Interfaces.Repositories.Base;
+using FindBook.Core.Models.Dto.Book;
 
 namespace FindBook.Core.Interfaces.Repositories
 {

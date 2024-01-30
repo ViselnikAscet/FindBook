@@ -19,8 +19,6 @@ namespace FindBook.Core.Entity
         public List<Book> Books { get; set; }
         public List<LanguageBasedInfo> LanguageBasedInfos { get; set; }
         public string CategoryImage { get; set; }
-        public List<SeoInfo> SeoInfos { get; set; }
-        public List<MenuItem> MenuItems { get; set; }
         public List<CampaignDetail> CampaignDetail { get; set; }
 
 
