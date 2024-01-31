@@ -18,7 +18,6 @@ namespace FindBook.Core.Entity
         public string Flag { get; set; }
         public bool IsDefault { get; set; }
         public List<LanguageBasedInfo> LanguageBasedInfo { get; set; }
-        public List<SeoInfo> SeoInfos { get; set; }
         public List<Error> Errors { get; set; }
         public List<Resource> Resources { get; set; }
 

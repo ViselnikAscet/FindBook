@@ -2,8 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using AracaParca.Core.Entity.Base;
-using AracaParca.Core.Interfaces.Repositories.Base;
+using FindBook.Core.Entity.Base;
+using FindBook.Core.Interfaces.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
@@ -13,16 +13,29 @@ namespace FindBook.Infrastructure.EF.MySql.Data.Repositories.Base
     public class BaseRepository<T> : IBaseRepository<T> where T : BaseEntity
     {
 
-        protected readonly AracaParcaContext DbContext;
+        protected readonly FindBookContext DbContext;
         protected readonly ILogger Logger;
         protected readonly DbSet<T> Table;
-        public BaseRepository(AracaParcaContext context, ILogger logger)
+        private FindBookContext context;
+
+        public BaseRepository(FindBookContext context, ILogger logger)
         {
             DbContext = context;
             Logger = logger;
             Table = DbContext.Set<T>();
         }
 
+        public BaseRepository(FindBookContext context, ILogger<AnnouncementRepository> logger)
+        {
+            this.context = context;
+            Logger = logger;
+        }
+
+        public BaseRepository(FindBookContext context, ILogger<BlogRepository> logger)
+        {
+            this.context = context;
+            Logger = logger;
+        }
 
         protected async Task<bool> SaveChangesAsync()
         {

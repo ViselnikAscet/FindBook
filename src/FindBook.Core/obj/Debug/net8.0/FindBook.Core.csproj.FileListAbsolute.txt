@@ -1,0 +1,7 @@
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.csproj.AssemblyReference.cache
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.AssemblyInfoInputs.cache
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.AssemblyInfo.cs
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.csproj.CoreCompileInputs.cache
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.MvcApplicationPartsAssemblyInfo.cache
+/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/Debug/net8.0/FindBook.Core.sourcelink.json

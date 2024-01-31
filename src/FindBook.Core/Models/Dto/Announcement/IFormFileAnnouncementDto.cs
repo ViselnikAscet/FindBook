@@ -2,9 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using FindBook.Core.Models.Enum;
-using FindBook.Core.Models.Dto.ClientSession;
 using FindBook.Core.Models.Dto.Base;
-using FindBook.Core.Models.Dto.UploadFile;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.WebUtilities;
 

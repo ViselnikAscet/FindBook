@@ -5,9 +5,8 @@ using FindBook.Core.Entity;
 using FindBook.Core.Interfaces.Repositories;
 using FindBook.Core.Interfaces.Services;
 using FindBook.Core.Models;
-using FindBook.Core.Models.Dto.Basket;
 using FindBook.Core.Models.Dto.Blog;
-using FindBook.Core.Models.Dto.Product;
+using FindBook.Core.Models.Dto.Book;
 using FindBook.Core.Services.Bases;
 using AutoMapper;
 using FluentValidation;
@@ -20,18 +19,15 @@ namespace FindBook.Core.Services
     public class BlogService : BaseService<Blog, BlogDto>, IBlogService
     {
         private protected readonly IBlogRepository _blogRepository;
-        private readonly ISeoInfoRepository _seoInfoRepository;
 
         public BlogService(
             ILogger<BlogService> logger,
             IMapper mapper,
             IBlogRepository repository,
-            ISeoInfoRepository seoInfoRepository,
             IValidator<BlogDto> validator,
             IErrorService errorService) : base(logger, mapper, repository, validator, errorService)
         {
             _blogRepository = repository;
-            _seoInfoRepository = seoInfoRepository;
 
         }
 
@@ -94,34 +90,9 @@ namespace FindBook.Core.Services
             return response;
         }
 
-        public async Task<Response<BlogDto>> GetBlogWithSeoLink(string seolink, int languageId)
+        public Task<Response<BlogDto>> GetBlogWithSeoLink(string seolink, int languageId)
         {
-            Response<BlogDto> response = new Response<BlogDto>();
-
-            var data = await _seoInfoRepository.GetBlogWithSeoLink(seolink);
-
-            if (data != null)
-            {
-                var blogData = await _blogRepository.GetBlogWithId((int)data.BlogId);
-                if (blogData != null)
-                {
-                    response.Data = Mapper.Map<BlogDto>(blogData);
-                    response.IsSuccess = true;
-                }
-                else
-                {
-                    response.IsSuccess = false;
-                }
-
-            }
-            else
-            {
-                response.IsSuccess = false;
-            }
-
-            return response;
+            throw new NotImplementedException();
         }
     }
-
-
 }

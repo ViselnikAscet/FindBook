@@ -1,10 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using AracaParca.Core.Entity;
-using AracaParca.Core.Interfaces.Repositories;
-using AracaParca.Core.Models.Dto.Address;
-using AracaParca.Core.Models.Enum;
+using FindBook.Core.Entity;
+using FindBook.Core.Interfaces.Repositories;
+using FindBook.Core.Models.Enum;
 using FindBook.Infrastructure.EF.MySql.Data.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -15,7 +14,7 @@ namespace FindBook.Infrastructure.EF.MySql.Data.Repositories
     public class AnnouncementRepository : BaseRepository<Announcement>, IAnnouncementRepository
     {
 
-        public AnnouncementRepository(AracaParcaContext context, ILogger<AnnouncementRepository> logger) : base(context, logger)
+        public AnnouncementRepository(FindBookContext context, ILogger<AnnouncementRepository> logger) : base(context, logger)
         {
 
         }

@@ -6,7 +6,6 @@ using FindBook.Core.Interfaces.Repositories;
 using FindBook.Core.Interfaces.Services;
 using FindBook.Core.Models;
 using FindBook.Core.Models.Dto.Announcement;
-using FindBook.Core.Models.Dto.FavoriteProduct;
 using FindBook.Core.Models.Enum;
 using FindBook.Core.Services.Bases;
 using AutoMapper;

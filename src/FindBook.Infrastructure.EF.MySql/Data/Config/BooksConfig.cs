@@ -8,13 +8,18 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 namespace FindBook.Infrastructure.EF.MySql.Data.Config
 {
 
-    public class AnnouncementConfig : IEntityTypeConfiguration<Announcement>
+    public class BooksConfig : IEntityTypeConfiguration<Book>
     {
+        
 
-        public void Configure(EntityTypeBuilder<Announcement> builder)
+        public void Configure(EntityTypeBuilder<Book> builder)
         {
             builder.HasQueryFilter(e => !e.IsDeleted);
+
+
+
         }
+
 
     }
 

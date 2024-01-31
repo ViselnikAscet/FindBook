@@ -17,7 +17,6 @@ namespace FindBook.Core.IoC
             services.AddTransient<ILanguageService, LanguageService>();
             services.AddTransient<ILanguageBasedInfoService, LanguageBasedInfoService>();
             services.AddTransient<IErrorService, ErrorService>();
-            services.AddTransient<ITokenService, TokenService>();
             services.AddTransient<IAnnouncementService, AnnouncementService>();
             services.AddTransient<IBlogService, BlogService>();
             services.AddTransient<ICampaignService, CampaignService>();

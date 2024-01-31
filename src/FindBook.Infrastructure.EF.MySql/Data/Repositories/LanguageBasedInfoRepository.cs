@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using AracaParca.Core.Entity;
-using AracaParca.Core.Interfaces.Repositories;
+using FindBook.Core.Entity;
+using FindBook.Core.Interfaces.Repositories;
 using FindBook.Infrastructure.EF.MySql.Data.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -13,7 +13,7 @@ namespace FindBook.Infrastructure.EF.MySql.Data.Repositories
     public class LanguageBasedInfoRepository : BaseRepository<LanguageBasedInfo>, ILanguageBasedInfoRepository
     {
 
-        public LanguageBasedInfoRepository(AracaParcaContext context, ILogger<LanguageBasedInfoRepository> logger) : base(context, logger)
+        public LanguageBasedInfoRepository(FindBookContext context, ILogger<LanguageBasedInfoRepository> logger) : base(context, logger)
         {
 
         }

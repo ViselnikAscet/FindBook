@@ -6,11 +6,11 @@ using FindBook.Core.Interfaces.Repositories;
 using FindBook.Core.Interfaces.Services;
 using FindBook.Core.Models;
 using FindBook.Core.Models.Dto.Campaign;
-using FindBook.Core.Models.Dto.Warehouse;
 using FindBook.Core.Services.Bases;
 using AutoMapper;
 using FluentValidation;
 using Microsoft.Extensions.Logging;
+using FindBook.Core.Interfaces.Repositories.Base;
 
 namespace FindBook.Core.Services
 {
@@ -19,14 +19,8 @@ namespace FindBook.Core.Services
     {
         private protected readonly ICampaignRepository _campaignRepository;
 
-        public CampaignService(
-            ILogger<CampaignService> logger,
-            IMapper mapper,
-            ICampaignRepository repository,
-            IValidator<CampaignDto> validator,
-            IErrorService errorService) : base(logger, mapper, repository, validator, errorService)
+        public CampaignService(ILogger<BaseService<Campaign, CampaignDto>> logger, IMapper mapper, IBaseRepository<Campaign> repository, IValidator<CampaignDto> validator, IErrorService errorService) : base(logger, mapper, repository, validator, errorService)
         {
-            _campaignRepository = repository;
         }
 
         public async Task<Response<List<CampaignDto>>> GetAllCampaigns(int languageId)
@@ -49,5 +43,5 @@ namespace FindBook.Core.Services
         }
     }
 
-
+  
 }

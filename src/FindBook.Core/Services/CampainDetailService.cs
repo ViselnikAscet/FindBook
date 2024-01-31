@@ -6,11 +6,11 @@ using FindBook.Core.Interfaces.Repositories;
 using FindBook.Core.Interfaces.Services;
 using FindBook.Core.Models;
 using FindBook.Core.Models.Dto.CampaignDetail;
-using FindBook.Core.Models.Dto.Warehouse;
 using FindBook.Core.Services.Bases;
 using AutoMapper;
 using FluentValidation;
 using Microsoft.Extensions.Logging;
+using FindBook.Core.Interfaces.Repositories;
 
 namespace FindBook.Core.Services
 {

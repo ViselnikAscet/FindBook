@@ -13,6 +13,8 @@ using AutoMapper;
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.Extensions.Logging;
+using FindBook.Core.Models.Dto.CampaignDetail;
+using FindBook.Core.Interfaces.Repositories;
 
 namespace FindBook.Core.Services.Bases
 {
@@ -26,7 +28,8 @@ namespace FindBook.Core.Services.Bases
         private protected readonly IBaseRepository<T> Repository;
         private protected readonly IValidator Validator;
         private protected readonly IErrorService _errorService;
-
+        private ICampaignDetailRepository repository;
+        private IErrorService errorService;
 
         public BaseService(ILogger<BaseService<T, TDto>> logger, IMapper mapper, IBaseRepository<T> repository, IValidator<TDto> validator, IErrorService errorService)
         {
@@ -35,6 +38,15 @@ namespace FindBook.Core.Services.Bases
             Repository = repository;
             Validator = validator;
             _errorService = errorService;
+        }
+
+        public BaseService(ILogger<CampaignDetailService> logger, IMapper mapper, ICampaignDetailRepository repository, IValidator<CampaignDetailDto> validator, IErrorService errorService)
+        {
+            Logger = logger;
+            Mapper = mapper;
+            this.repository = repository;
+            Validator = validator;
+            this.errorService = errorService;
         }
 
         public virtual async Task<Response<TDto>> AddAsync(TDto item, int languageId)

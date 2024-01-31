@@ -2,9 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using FindBook.Core.Models.Dto.Base;
-using FindBook.Core.Models.Dto.Customer;
-using FindBook.Core.Models.Dto.Product;
-using FindBook.Core.Models.Dto.ProductPrice;
+using FindBook.Core.Models.Dto.Book;
 
 namespace FindBook.Core.Models.Dto.CampaignDetail
 {

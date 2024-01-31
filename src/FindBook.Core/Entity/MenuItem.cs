@@ -19,9 +19,7 @@ namespace FindBook.Core.Entity
         public string RedirectLink { get; set; }
         public int Priority { get; set; }
         public int? MenuSectionId { get; set; }
-        public MenuSection MenuSection { get; set; }
-        public UIMenuType MenuType { get; set; }
-        public MenuItemType MenuItemType { get; set; } 
+
         public bool IsCustomLabel { get; set; } 
         public bool IsLogged { get; set; }
         public bool IsMobile { get; set; }
