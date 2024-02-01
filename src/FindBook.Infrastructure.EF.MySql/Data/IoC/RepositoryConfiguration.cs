@@ -7,6 +7,8 @@ using FindBook.Core.Services;
 using FindBook.Infrastructure.EF.MySql.Data.Repositories;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using ICampaignDetailRepository = FindBook.Infrastructure.EF.MySql.Data.Repositories.ICampaignDetailRepository;
+using ICampaignRepository = FindBook.Infrastructure.EF.MySql.Data.Repositories.ICampaignRepository;
 
 namespace FindBook.Infrastructure.EF.MySql.Data.IoC
 {

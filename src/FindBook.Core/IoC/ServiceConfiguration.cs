@@ -13,6 +13,8 @@ namespace FindBook.Core.IoC
     {
         public static IServiceCollection RegisterCoreServices(this IServiceCollection services, IConfiguration configuration)
         {
+
+            
             services.AddTransient<IUserService, UserService>();
             services.AddTransient<ILanguageService, LanguageService>();
             services.AddTransient<ILanguageBasedInfoService, LanguageBasedInfoService>();

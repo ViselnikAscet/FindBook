@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hTBl8saZz34CnkdHI1aM6TiV1zygzpcVm/PbZAFLTnTusAJ8I21dOt64wv2hntoKO/2zRWT4QtxXGcN4xnFMRA==",
+  "dgSpecHash": "AnsTflKHbkEnGPH16HDWSww1uGyJIHxCgtep36xiXfkQhOEhhTyD/uhfjsNpdegSh9N7ENdPL1GoWiNzudVsvg==",
   "success": true,
   "projectFilePath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/FindBook.UI.App.csproj",
   "expectedPackageFiles": [
@@ -45,6 +45,8 @@
     "/Users/viselnik/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/viselnik/.nuget/packages/mysql.data/8.3.0/mysql.data.8.3.0.nupkg.sha512",
     "/Users/viselnik/.nuget/packages/mysql.entityframeworkcore/8.0.0/mysql.entityframeworkcore.8.0.0.nupkg.sha512",
+    "/Users/viselnik/.nuget/packages/mysqlconnector/2.3.1/mysqlconnector.2.3.1.nupkg.sha512",
+    "/Users/viselnik/.nuget/packages/pomelo.entityframeworkcore.mysql/8.0.0-beta.2/pomelo.entityframeworkcore.mysql.8.0.0-beta.2.nupkg.sha512",
     "/Users/viselnik/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/viselnik/.nuget/packages/system.configuration.configurationmanager/6.0.1/system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "/Users/viselnik/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",

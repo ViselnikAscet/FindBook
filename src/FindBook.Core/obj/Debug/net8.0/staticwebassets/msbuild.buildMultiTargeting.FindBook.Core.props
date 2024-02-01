@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FindBook.Core.props" />
+</Project>
