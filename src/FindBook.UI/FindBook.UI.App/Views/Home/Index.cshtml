@@ -4,7 +4,7 @@
 
 	
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en" ng-app="myApp">
 <head>
   <meta charset="UTF-8">
   <title>Bil Bakalım Kim</title>
@@ -26,34 +26,33 @@
 <audio id="myAudio" src="~/assets/audio/champions.mp3"></audio>
 
 <div id="user-info">
-<center>
 	<div id="info">
 		<h3>Kayıt Bilgileri</h3>
 		<input id="username" type="text" placeholder="Kullanıcı Adı" required>
 		<button id="go-menu">Başla</button>
 	</div>
-</center>
 </div>
 
 <div class="start-screen">
 	<h2>HAZIR MISIN?</h2>
+
 	<div class="switch-button"><span class="active"></span>
-		<button class="switch-button-case left active-case">Yerli</button>		
-		<img src="~/assets/images/googlebooks.png" onclick="window.location.href='/Home/DirectBook'" alt="" id="googlebooks">
-		<button class="switch-button-case middle">Yabancı</button>
-    	<button class="switch-button-case right">Karışık</button>
-	  </div>
+	  <button class="switch-button-case left active-case">Yerli</button>		
+	  <img src="~/assets/images/googlebooks.png" onclick="window.location.href='/Home/DirectBook'" alt="" id="googlebooks">
+	  <button class="switch-button-case middle">Yabancı</button>
+      <button class="switch-button-case right">Karışık</button>
+	</div>
 
 
-	  <div class="switch-button2"><span class="active2"></span>
-		<button class="switch-button-case2 left2 active-case2">Roman</button>
-    	<button class="switch-button-case2 right2">Çocuk</button>
-	  </div>
+	<div class="switch-button2"><span class="active2"></span>
+	  <button class="switch-button-case2 left2 active-case2">Roman</button>
+      <button class="switch-button-case2 right2">Çocuk</button>
+	</div>
 	  
-	  <div class="button-container">
-		<button class="main-button smaller" onclick="window.location.href='/Scoreboard/Index'" id="go-scoreboard">Skor Tablosu</button>
-		<button class="main-button larger" id="start-button">Başla</button>
-		<button class="main-button smaller" onclick="window.location.href='/Library/Index'" id="go-library">Kütüphane</button>
+	<div class="button-container">
+	  <button class="main-button smaller" onclick="window.location.href='/Scoreboard/Index'" id="go-scoreboard">Skor Tablosu</button>
+	  <button class="main-button larger" id="start-button">Başla</button>
+	  <button class="main-button smaller" onclick="window.location.href='/Library/Index'" id="go-library">Kütüphane</button>
 	</div>		
 		<img src="~/assets/images/githubIcon.png" onclick="window.location.href='/Home/DirectGithub'" alt="" id="github">
 
@@ -92,7 +91,7 @@
 					</div>            
 				</div>
 			</div>
-				
+					
 			<div class="card2" onclick="handleClickTwo(2)">
 				<div class="card-inner" >
 					<div class="card-front">
@@ -111,10 +110,93 @@
 	</div>
 	<a  href="https://yildizmacka.meb.k12.tr/" target="_blank">YTÜ MAÇKA BİL BAKALIM?&nbsp;<i class="fa-solid fas fa-book"></i></a>
 </div>
-<div class="score-container hide">
-	<div id="user-score"></div>
-	<button id="restart">Tekrar Dene!</button>
-	<button id="mainmenu">Menüye Dön</button>
+<div class="score-container hide" ng-controller="ListController" ng-init="init()">
+<div class="wrongs-container">
+	<h1 class="heading">Sonuçlar</h1>
+	<p class="para">Gayet Başarılısınız</p>
+
+	<div class="flex">
+		<div class="pie">
+		<div class="inner-circle">
+			<p>Kitaplar<br></p>
+		</div>
+		</div>
+		<div class="pro-bar-container">
+		<div class="row-container">
+			<!--       Channel pages -->
+			<div class="row">
+			<p class="pro-bar-info p1-text">
+				Doğru Cevaplar
+			</p>
+			<div class="bar">
+				<div class="progress p1"></div>
+			</div>
+			</div>
+
+			<!-- Direct or unkown -->
+			<div class="row">
+			<p class="pro-bar-info">
+				Yanlış Cevaplar
+			</p>
+			<div class="bar">
+				<div class="progress p2"></div>
+			</div>
+			</div>
+
+			<!--  search -->
+			<div class="row">
+			<p class="pro-bar-info">
+				Genel Başarı
+			</p>
+			<div class="bar">
+				<div class="progress p3"></div>
+			</div>
+			</div>
+		</div>
+
+		<div class="percent">
+			<p class="percent-p1" maxLength="5">87.5%</p>
+			<p class="percent-p2" maxLength="5">13.5%</p>
+			<p class="percent-p3" maxLength="5">85%</p>
+		</div>
+		</div>
+	</div>
+	<table class="content-table">
+		<thead>
+		<tr>
+			<th>Sıra</th>
+			<th>Soru</th>
+			<th>Doğru Cevap</th>
+			<th>Cevabın</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td>1</td>
+			<td>Domenic</td>
+			<td>88,110</td>
+			<td>dcode</td>
+		</tr>
+		<tr class="active-row">
+			<td>2</td>
+			<td>Sally</td>
+			<td>72,400</td>
+			<td>Students</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Nick</td>
+			<td>52,300</td>
+			<td>dcode</td>
+		</tr>
+		</tbody>
+	</table>
+	<div class="score-text">
+		<div id="user-score"></div>
+		<button id="restart">Tekrar Dene!</button>
+		<button id="mainmenu">Menüye Dön</button>
+	</div>
+</div>
 </div>
 <!-- partial -->
 <script src="~/lib/Firebase/firebase-app-compat.js"></script>
@@ -122,6 +204,9 @@
 <script src="~/lib/Firebase/firebase-auth-compat.js"></script>
 <script src="~/lib/Firebase/firebase-database-compat.js"></script>
 
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.min.js" integrity="sha512-KZmyTq3PLx9EZl0RHShHQuXtrvdJ+m35tuOiwlcZfs/rE7NZv29ygNA8SFCkMXTnYZQK2OX0Gm2qKGfvWEtRXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="~/js/home/score.js"></script>
 
   <script src="~/js/home/script.js"></script>
   <script type="module" src="~/js/home/firebase.js"></script>

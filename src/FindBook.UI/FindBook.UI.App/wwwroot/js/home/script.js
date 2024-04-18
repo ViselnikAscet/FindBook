@@ -41,7 +41,7 @@ var isClickedOne = false;
 var isClickedTwo = false;
 var clickedCountScore =0;
 var audio = document.getElementById("myAudio");
-
+var wrongAnswers = [];
 
 var switchButton2 = document.querySelector(".switch-button2");
 var switchBtnRight2 = document.querySelector(".switch-button-case2.right2");
@@ -262,6 +262,7 @@ function cocukimg() {
 // restart game
 restart.addEventListener("click", () => {
   audio.pause();
+  wrongAnswers = [];
   score = 0;
   resetCardState(); // Reset the card state
   inital(); //call initial function
@@ -443,7 +444,6 @@ function checker(userOption) {
             username: adSoyadInput.value,
             score: score
           };
-
           scoresRef
             .push(newScore)
             .then(() => {
@@ -479,6 +479,39 @@ function checker(userOption) {
       //red background
       userOption.classList.add("inCorrect");
       wrong = wrong - 1;
+      wrongAnswers.push({
+        question: quizArray[questionCount].question,
+        correctAnswer: quizArray[questionCount].correct,
+        userAnswer: userSolution
+      });
+
+      var dogruSayisi = scoreCount;
+      var yanlisSayisi = wrongAnswers.length;
+      var toplamSoruSayisi = dogruSayisi + yanlisSayisi;
+      
+      var dogruYuzde = ((dogruSayisi / toplamSoruSayisi) * 100).toFixed(1);
+      var dogruYuzdeBar = ((dogruSayisi / toplamSoruSayisi) * 200).toFixed(1);
+
+      var yanlisYuzde = ((yanlisSayisi / toplamSoruSayisi) * 100).toFixed(1);
+      var yanlisYuzdeBar = ((yanlisSayisi / toplamSoruSayisi) * 200).toFixed(1);
+
+      var genelYuzde = ((dogruSayisi / toplamSoruSayisi) * 100).toFixed(1);   
+      var genelYuzdeBar = ((dogruSayisi / toplamSoruSayisi) * 200).toFixed(1);   
+      
+      $(".p1").animate({"width" : dogruYuzdeBar}, 1500);
+      $(".percent-p1").text(dogruYuzde + "%");
+
+      $(".p2").animate({"width" : yanlisYuzdeBar}, 1500);
+      $(".percent-p2").text(yanlisYuzde + "%");
+
+      $(".p3").animate({"width" : genelYuzdeBar}, 1500);
+      $(".percent-p3").text(genelYuzde + "%");
+
+      console.log("Doğru Yüzde:", dogruYuzde);
+      console.log("Yanlış Yüzde:", yanlisYuzde);
+      console.log("Genel Yüzde:", genelYuzde);
+      
+      console.log(wrongAnswers);
       if (wrong == 2) {
         heart1.className = heartempty;
         document.getElementById("heart1").classList.add("shaking");
@@ -488,7 +521,6 @@ function checker(userOption) {
       } else if (wrong == 0) {
         heart3.className = heartempty;
         document.getElementById("heart3").classList.add("shaking");
-  
         setTimeout(function () {
           wrapper.classList.add("hide");
           score = scoreCount * 10;

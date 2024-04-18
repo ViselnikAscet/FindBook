@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWhUBIjpcyXLGoRb7OUo3HsAbRwzdRFmP2ECy331rM0oK8B8A5Gn/snuV396hIiaa7YQAqev5rFRx1hFr272FA==",
+  "dgSpecHash": "CVzF26rS0ZwpN5vkbrYDBu+sPydY2MlCIAlHNNcw2ltWPDGe2sCJPPdq/1YQAtgAvhC0M1wb8V55F+HkbxvhBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
+  "projectFilePath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merty\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\merty\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

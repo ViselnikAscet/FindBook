@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CsLeSq7QHygbpVfhkgs4hfTDQYAcSymelNIUX6h06bDEfZv4+jz6Gtt6fK35Pew/BSG61FW9pvf1uia0rXHjhA==",
+  "dgSpecHash": "QvB9yFXR6MNmQKHh092K8+7M8R06/FK//uHi1bL7Ew5hv6Cl/K0v0UqT0R26AFlQAADnyU38GcYA4JR+qrqybg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj",
+  "projectFilePath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merty\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\merty\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj": {}
+    "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj": {
+    "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj",
+        "projectUniqueName": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj",
         "projectName": "FindBook.UI.Admin",
-        "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj",
+        "projectPath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.Admin\\FindBook.UI.Admin.csproj",
         "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.Admin\\obj\\",
+        "outputPath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.Admin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merty\\AppData\\Roaming\\NuGet\\NuGet.Config",

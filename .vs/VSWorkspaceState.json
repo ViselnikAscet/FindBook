@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\FindBook.UI",
+    "\\src\\FindBook.UI\\FindBook.UI.Admin\\wwwroot",
+    "\\src\\FindBook.UI\\FindBook.UI.Admin\\wwwroot\\lib\\aggrid",
+    "\\src\\FindBook.UI\\FindBook.UI.App",
+    "\\src\\FindBook.UI\\FindBook.UI.App\\wwwroot",
+    "\\src\\FindBook.UI\\FindBook.UI.App\\wwwroot\\lib\\select2"
+  ],
+  "SelectedNode": "\\src\\FindBook.UI\\FindBook.UI.App\\wwwroot",
+  "PreviewInSolutionExplorer": false
+}

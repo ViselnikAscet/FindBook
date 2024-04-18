@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindBook.Infrastructure.EF.MySql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54ee868356ba6b50f3670cdda6efe8d13e9b9e6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindBook.Infrastructure.EF.MySql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindBook.Infrastructure.EF.MySql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

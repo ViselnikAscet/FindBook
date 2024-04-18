@@ -3711,11 +3711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
+      "projectUniqueName": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
       "projectName": "FindBook.UI.App",
-      "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
+      "projectPath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
       "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\obj\\",
+      "outputPath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.UI\\FindBook.UI.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3732,8 +3732,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj": {
-              "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj"
+            "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj": {
+              "projectPath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKlLPsVQNImFwXLYImHyeCZPXmVdE8/hA51Nss8iGUkMURXtKvz+ZQ2HewXOMzr5w4NirBUJStRl9pnQ0jGqJA==",
+  "dgSpecHash": "y+FvpeS5hOPichqVQ1Zj0t0EWeKnHbDAFUw734NHKomTxV+Wbcs1XJA4cvmPzsy5HfMcn0li+urV8FQ4PuvHcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj",
+  "projectFilePath": "C:\\Users\\merty\\Desktop\\FindBook-Dev\\src\\FindBook.Core\\FindBook.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merty\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\merty\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
