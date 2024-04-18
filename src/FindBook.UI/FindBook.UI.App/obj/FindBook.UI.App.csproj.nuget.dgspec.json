@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/FindBook.UI.App.csproj": {}
+    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj": {}
   },
   "projects": {
-    "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/FindBook.Core.csproj": {
+    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/FindBook.Core.csproj",
+        "projectUniqueName": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj",
         "projectName": "FindBook.Core",
-        "projectPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/FindBook.Core.csproj",
-        "packagesPath": "/Users/viselnik/.nuget/packages/",
-        "outputPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/obj/",
+        "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj",
+        "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/viselnik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\merty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,34 +77,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/FindBook.Infrastructure.EF.MySql.csproj": {
+    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/FindBook.Infrastructure.EF.MySql.csproj",
+        "projectUniqueName": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj",
         "projectName": "FindBook.Infrastructure.EF.MySql",
-        "projectPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/FindBook.Infrastructure.EF.MySql.csproj",
-        "packagesPath": "/Users/viselnik/.nuget/packages/",
-        "outputPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/obj/",
+        "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj",
+        "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/viselnik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\merty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/FindBook.Core.csproj": {
-                "projectPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Core/FindBook.Core.csproj"
+              "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj": {
+                "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Core\\FindBook.Core.csproj"
               }
             }
           }
@@ -106,6 +115,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -147,34 +161,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/FindBook.UI.App.csproj": {
+    "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/FindBook.UI.App.csproj",
+        "projectUniqueName": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
         "projectName": "FindBook.UI.App",
-        "projectPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/FindBook.UI.App.csproj",
-        "packagesPath": "/Users/viselnik/.nuget/packages/",
-        "outputPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.UI/FindBook.UI.App/obj/",
+        "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\FindBook.UI.App.csproj",
+        "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.UI\\FindBook.UI.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/viselnik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\merty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/FindBook.Infrastructure.EF.MySql.csproj": {
-                "projectPath": "/Users/viselnik/Desktop/Project/FindBook/src/FindBook.Infrastructure.EF.MySql/FindBook.Infrastructure.EF.MySql.csproj"
+              "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj": {
+                "projectPath": "C:\\Users\\merty\\Documents\\GitHub\\FindBook\\src\\FindBook.Infrastructure.EF.MySql\\FindBook.Infrastructure.EF.MySql.csproj"
               }
             }
           }
@@ -183,6 +199,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -233,7 +254,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
